@@ -28,6 +28,7 @@ public class HelloWorldController {
     @RequestMapping("logan")
     public ModelAndView welcome() {|
     	ModelAndView mv = new ModelAndView("myPage");
+    	mv.addObject("siteName", this.siteName);
     	return mv;
     }
 }
