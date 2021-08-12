@@ -25,9 +25,9 @@ public class HelloWorldController {
         return mav;
     }
     
-//    @RequestMapping("logan")
-//    public ModelAndView welcome() {|
-//    	ModelAndView mv = new ModelAndView("myPage");
-//    	return mv;
-//    }
+    @RequestMapping("logan")
+    public ModelAndView welcomeHere() {|
+    	ModelAndView mv = new ModelAndView("myPage");
+    	return mv;
+    }
 }
