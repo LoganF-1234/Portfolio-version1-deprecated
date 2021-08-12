@@ -8,6 +8,7 @@ phases:
       - pip install --upgrade awscli
   pre_build:
     commands:
+      - mvn clean compile test
   build:
     commands:
       - mvn war:exploded
