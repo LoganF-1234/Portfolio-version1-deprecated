@@ -135,10 +135,11 @@ footer .footer-contents {
   animation: dash 5s linear forwards;
 }
 
-.path1 {
+.path-1 {
   stroke-dasharray: 4000;
   stroke-dashoffset: 4000;
-  animation: dash 1s linear forwards;
+  animation-delay: 3s; 
+  animation: dash 5s linear forwards;
 }
 
 @keyframes dash {
