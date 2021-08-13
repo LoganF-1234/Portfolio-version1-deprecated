@@ -129,15 +129,17 @@ footer .footer-contents {
   margin-bottom: 1rem;
 }
 
+.slow {
+  animation-delay: 3s;  
+}
+
 .path {
   stroke-dasharray: 4000;
   stroke-dashoffset: 4000;
   animation: dash 5s linear forwards;
 }
 
-.slow {
-  animation-delay: 3s;  
-}
+
 
 @keyframes dash {
   to {
