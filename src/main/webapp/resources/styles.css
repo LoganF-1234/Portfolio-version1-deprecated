@@ -135,6 +135,12 @@ footer .footer-contents {
   animation: dash 5s linear forwards;
 }
 
+.path1 {
+  stroke-dasharray: 4000;
+  stroke-dashoffset: 4000;
+  animation: dash 8s linear forwards;
+}
+
 @keyframes dash {
   to {
     stroke-dashoffset: 0;
@@ -145,7 +151,7 @@ footer .footer-contents {
   .message {
     padding: 0;
     width: 50%;
-    left: calc(50vw - 2rem);
+    left: calc(50vw - 5rem);
     top: calc(15vh - 5rem);
   }
 
