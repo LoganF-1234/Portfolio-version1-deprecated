@@ -138,7 +138,7 @@ footer .footer-contents {
 .path1 {
   stroke-dasharray: 4000;
   stroke-dashoffset: 4000;
-  animation: dash 8s linear forwards;
+  animation: dash 1s linear forwards;
 }
 
 @keyframes dash {
