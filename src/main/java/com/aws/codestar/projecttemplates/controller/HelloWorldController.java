@@ -27,7 +27,7 @@ public class HelloWorldController {
     
     @RequestMapping("Caesar")
     public ModelAndView pleaseWork() {
-        ModelAndView mav = new ModelAndView("myPage");
+        ModelAndView mav = new ModelAndView("caesar");
         return mav;
     }
 }
