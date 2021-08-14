@@ -19,19 +19,18 @@
   </head>
 
   <body class="">
-	 <div class="wrapper">
-    
+ 
       <div class="spacious">
         <h1>
-        Gaius Julius Caesar aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+        Gaius Julius Caesar
         </h1>
         <h2>
-        
+        (100 BC - 44 BC)
         </h2>
       </div>
     
     
-    </div>
+   
     
     
   </body>

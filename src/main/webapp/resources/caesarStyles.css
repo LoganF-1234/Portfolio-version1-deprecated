@@ -32,7 +32,6 @@ h1 {
   text-align: center;
   font-size: 3.5rem;
   margin-bottom: 0.5rem;
-  display: block;
 }
 
 a {
@@ -54,67 +53,6 @@ footer, .push {
 
 footer .footer-contents {
   padding: 0 5rem;
-  position: relative;
-}
-
-.website-nav {
-  position: relative;
-  padding: 5rem;
-}
-
-.website-nav ul {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-}
-
-.website-nav ul li {
-  float: left;
-  padding: 0.5rem 2rem 0.5rem 0;
-  line-height: 21px;
-}
-
-.website-nav ul li a {
-  color: white;
-  text-decoration: none;
-}
-
-.home-link {
-  font-weight: bold;
-}
-
-.message {
-  position: relative;
-  padding: 0 5rem;
-  margin-bottom: 3rem;
-  width: auto;
-}
-
-.message .text {
-  float: left;
-}
-
-.message:after, .website-nav:after {
-  content: " ";
-  display: table;
-  clear: both;
-}
-
-.graphics {
-  display: none;
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  margin-bottom: 0;
-}
-
-.graphics .tower svg {
-  width: calc(100vw);
-  height: calc(90vh);
-}
-
-.graphics .cloud {
-  top: 30rem;
   position: relative;
 }
 
