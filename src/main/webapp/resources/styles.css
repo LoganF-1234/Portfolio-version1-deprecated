@@ -136,8 +136,11 @@ footer .footer-contents {
   animation: dash 5s linear forwards;
 }
 
-.slow .path {
-  animation-delay: 3s;  
+.clouds .path {
+	animation-delay: 5s;
+}
+.hills .path {
+  animation-delay: 4s;  
 }
 
 
