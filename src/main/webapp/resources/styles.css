@@ -133,11 +133,9 @@ footer .footer-contents {
 .path {
   stroke-dasharray: 4000;
   stroke-dashoffset: 4000;
-}
-
-.sword .path {
   animation: dash 5s linear forwards;
 }
+
 
 .clouds .path {
   animation-delay: 5s;
@@ -149,7 +147,6 @@ footer .footer-contents {
   animation: dash 5s linear forwards;
    
 }
-
 
 @keyframes dash {
   to {
