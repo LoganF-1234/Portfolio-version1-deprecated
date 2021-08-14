@@ -27,7 +27,7 @@ public class HelloWorldController {
     
     @RequestMapping("logan")
     public ModelAndView pleaseWork() {
-        ModelAndView mav = new ModelAndView("my");
+        ModelAndView mav = new ModelAndView("myPage");
         return mav;
     }
 }
