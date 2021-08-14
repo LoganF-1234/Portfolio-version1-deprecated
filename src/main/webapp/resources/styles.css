@@ -155,7 +155,7 @@ footer .footer-contents {
   .message {
     padding: 0;
     width: 50%;
-    left: calc(50vw - 5rem);
+    left: calc(10vw - 5rem);
     top: calc(15vh - 5rem);
   }
 
