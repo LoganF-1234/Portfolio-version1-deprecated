@@ -94,7 +94,7 @@ footer .footer-contents {
 }
 
 .message .text {
-  float: right;
+  float: left;
 }
 
 .message:after, .website-nav:after {
@@ -133,11 +133,10 @@ footer .footer-contents {
 .path {
   stroke-dasharray: 4000;
   stroke-dashoffset: 4000;
-  animation: dash 5s linear forwards;
+  animation: dash 5s linear backwards;
 }
 
 .clouds .path {
-  animation: dash 10s linear forwards;	
   animation-delay: 5s;
 }
 .hills .path {
