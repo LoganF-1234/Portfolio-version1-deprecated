@@ -133,8 +133,14 @@ footer .footer-contents {
   stroke-dasharray: 4000;
   stroke-dashoffset: 4000;
 }
+
 .sword .path {
   animation: dash 5s linear forwards;
+}
+
+.sword-details .path {
+  animation: dash 5s linear forwards;
+  animation-delay: 4.3s;
 }
 
 .clouds .path {	
@@ -156,8 +162,8 @@ animation-delay: 4s;
   .message {
     padding: 0;
     width: 50%;
-    left: calc(50vw - 5rem);
-    top: calc(10vh - 20rem);
+    left: calc(50vw - 10rem);
+    top: calc(10vh - 15rem);
   }
 
   .message .text {
@@ -182,7 +188,7 @@ animation-delay: 4s;
 @media (min-height: 500px) and (min-width: 1240px) {
   .message {
     left: calc(50vw - 10rem);
-    top: calc(25vh - 5rem);
+    top: calc(10vh - 15rem);
   }
 
   h1 {
