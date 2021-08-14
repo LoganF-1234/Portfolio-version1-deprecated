@@ -129,13 +129,13 @@ footer .footer-contents {
   margin-bottom: 1rem;
 }
 
-
 .path {
   stroke-dasharray: 4000;
   stroke-dashoffset: 4000;
+}
+.sword .path {
   animation: dash 5s linear forwards;
 }
-
 
 .clouds .path {
   animation-delay: 5s;
@@ -155,7 +155,7 @@ footer .footer-contents {
     padding: 0;
     width: 50%;
     left: calc(50vw - 5rem);
-    top: calc(15vh - 5rem);
+    top: calc(10vh - 20rem);
   }
 
   .message .text {
