@@ -137,11 +137,13 @@ footer .footer-contents {
   animation: dash 5s linear forwards;
 }
 
-.clouds .path {
+.clouds .path {	
+  animation: dash 6s cubic-bezier(0.72, 0.01, 0.59, 0.98) forwards; 
   animation-delay: 5s;
 }
 .hills .path {
-  animation-delay: 4s;    
+animation: dash 3s cubic-bezier(0.55, 0.06, 0.68, 0.19) forwards;  
+animation-delay: 4s;    
 }
 
 @keyframes dash {
