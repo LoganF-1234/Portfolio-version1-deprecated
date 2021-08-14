@@ -25,10 +25,9 @@ public class HelloWorldController {
         return mav;
     }
     
-//    @RequestMapping(method = RequestMethod.GET)
-//    public ModelAndView pleaseWork() {
-//        ModelAndView mav = new ModelAndView("myPage");
-//        mav.addObject("siteName", this.siteName);
-//        return mav;
-//    }
+    @RequestMapping("logan")
+    public ModelAndView pleaseWork() {
+        ModelAndView mav = new ModelAndView("my");
+        return mav;
+    }
 }
