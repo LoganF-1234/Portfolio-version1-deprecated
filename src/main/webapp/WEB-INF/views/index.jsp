@@ -80,15 +80,13 @@
         <div class="text">
           <h1>The Great Men</h1>
           <h2>"So Shines a Good Deed in a Weary World"</h2>
+          <body class="body-text">Logan Ferrera</body>
         </div>
       </div>
     </div>
 
     <footer>
       <p class="footer-contents">Designed and developed by Logan Ferrera</p>
-      <div data-iframe-width="100" data-iframe-height="270" data-share-badge-id="fe0053fd-8645-484a-a462-b9fe94d5bac1" data-share-badge-host="https://www.credly.com" style="position:relative">
-      </div>
-      <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
     </footer>
 
     <script src={$setBackgroundJs}"></script>

@@ -51,12 +51,6 @@ footer .footer-contents {
   position: relative;
 }
 
-iframe#embedded-badge-fe0053fd-8645-484a-a462-b9fe94d5bac1 {
-    position: relative;
-    float: right;
-    margin-top: -16rem;
-}
-
 .website-nav {
   position: relative;
   padding: 5rem;
@@ -102,6 +96,11 @@ iframe#embedded-badge-fe0053fd-8645-484a-a462-b9fe94d5bac1 {
 
 .message .text {
   float: left;
+}
+
+.message .body-text {
+	float: left;
+	font-size: 1.5
 }
 
 .message:after, .website-nav:after {
