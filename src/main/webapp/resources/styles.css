@@ -156,6 +156,11 @@ footer .iframe-aws {
   animation-delay: 4.5s;
 }
 
+.sword-octopus .path {
+  animation: dash 40s linear frowards;
+  animation-delay: 5s;
+}
+
 .clouds .path {	
   animation: dash 6s cubic-bezier(0.72, 0.01, 0.59, 0.98) forwards; 
   animation-delay: 5s;
