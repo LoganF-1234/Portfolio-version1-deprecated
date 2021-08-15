@@ -185,6 +185,10 @@ iframe#embedded-badge-fe0053fd-8645-484a-a462-b9fe94d5bac1 {
   animation-delay: 5.8s;
 }
 
+.crossguard-details .path {
+  animation: dash 60s linear forwards;
+  animation-delay: 5s;
+}
 .clouds .path {	
   animation: dash 6s cubic-bezier(0.72, 0.01, 0.59, 0.98) forwards; 
   animation-delay: 5s;
