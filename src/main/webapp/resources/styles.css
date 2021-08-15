@@ -157,7 +157,12 @@ footer .iframe-aws {
 }
 
 .sword-octopus .path {
-  animation: dash 40s linear frowards;
+  animation: dash 40s linear forwards;
+  animation-delay: 5.2s;
+}
+
+.octopus-arms .path {
+  animation: dash 40s linear forwards;
   animation-delay: 5s;
 }
 
