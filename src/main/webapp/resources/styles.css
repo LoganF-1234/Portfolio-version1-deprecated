@@ -146,9 +146,14 @@ footer .iframe-aws {
   animation: dash 5s linear forwards;
 }
 
-.sword-details .path {
+.sword-details-1 .path {
   animation: dash 5s linear forwards;
   animation-delay: 4.2s;
+}
+
+.sword-details-2 .path {
+  animation: dash 5s linear forwards;
+  animation-delay: 4.5s;
 }
 
 .clouds .path {	
