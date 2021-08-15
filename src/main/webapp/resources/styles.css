@@ -165,10 +165,31 @@ iframe#embedded-badge-fe0053fd-8645-484a-a462-b9fe94d5bac1 {
   animation-delay: 5s;
 }
 
+.banner .path {
+  animation: dash 70s linear forwards;
+  animation-delay: 5.2s;
+}
+
+.banner-end-lions .path {
+  animation: dash 60s linear forwards;
+  animation-delay: 5.4s;
+}
+
+.circles-rectangle .path {
+  animation: dash 100s linear forwards;
+  animation-delay: 5.6s;
+}
+
+.top-details .path {
+  animation: dash 60s linear forwards;
+  animation-delay: 5.8s;
+}
+
 .clouds .path {	
   animation: dash 6s cubic-bezier(0.72, 0.01, 0.59, 0.98) forwards; 
   animation-delay: 5s;
 }
+
 .hills .path {
 animation: dash 3s cubic-bezier(0.55, 0.06, 0.68, 0.19) forwards;  
 animation-delay: 4s;    
