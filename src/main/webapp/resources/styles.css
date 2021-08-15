@@ -33,6 +33,7 @@ a {
   text-decoration: none;
 }
 
+
 .wrapper {
   min-height: 100%;
   height: auto !important;
@@ -50,12 +51,10 @@ footer .footer-contents {
   position: relative;
 }
 
-footer .iframe-aws {
-	position: relative;
-	float: right;
-	height: 7rem;
-	width: 10rem;
-	
+iframe#embedded-badge-fe0053fd-8645-484a-a462-b9fe94d5bac1 {
+    position: relative;
+    float: right;
+    margin-top: -16rem;
 }
 
 .website-nav {
