@@ -99,10 +99,6 @@ footer .footer-contents {
   float: left;
 }
 
-.message .body-text {
-	float: left;
-	font-size: 1.5
-}
 
 .message:after, .website-nav:after {
   content: " ";
