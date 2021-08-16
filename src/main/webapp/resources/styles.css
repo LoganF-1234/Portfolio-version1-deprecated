@@ -189,6 +189,11 @@ footer .footer-contents {
   animation: dash 60s linear forwards;
   animation-delay: 5s;
 }
+
+.hilt-details .path {
+  animation: dash 60s linear forwards;
+  animation-delay: 5s;
+}
 .clouds .path {	
   animation: dash 6s cubic-bezier(0.72, 0.01, 0.59, 0.98) forwards; 
   animation-delay: 5s;
