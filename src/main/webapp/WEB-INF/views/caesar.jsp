@@ -61,7 +61,7 @@
 	        </p>
 	        <p>
 	        Caesar was again safely recieved into Rome with his wife Cornelia thanks to his mother. He was now 19, and not intending to further upset the dictator Sulla, Caesar would begin his mandatory years of military service in Asia and 
-	        would not return to Rome until the dictator's death. Under the command of his propraetor, Caesar would be sent to the court of King Nicomedes of Bithynia. An abhorrent rumour began to make its rounds among the men that Caesar 
+	        would not return to Rome until the dictator's death. Under the command of his propraetor, Caesar would be sent to the court of King Nicomedes IV of Bithynia. An abhorrent rumour began to make its rounds among the men that Caesar 
 	        had been seduced and lay with King, due to his uncharacteristically lackadaisical conduct in his duties, preferring to revel in the luxuries of the foreign court instead of carrying out his bureaucratic responsibilities.        
 	        </p>
 	        <p>
@@ -95,6 +95,33 @@
 	        speeches which he read to them, and those who did not admire them he would call them straight out ignorant barbarians, and would often threaten laughingly to hang them all. The pirates enjoyed it and ascribed his 
 	        bold talk to simplicity and boyish playfulness.” Caesar would immediately prove to the pirates that this was in fact not the case, for upon the payment of the 50 talents and his release, Caesar built up a small fleet and imprisoned most of his 
 	        captors. Not being a magistrate, Caesar appealed to the governor of Asia to execute the prisoners, and upon being denied, Caesar made his way back to the pirates and crucified all of them on his own initiative.    
+	        </p>
+	        <p>
+	        Caesar was finally able to make the detour to Rhodes to study under Apollonius. At Rhodes, Caesar developed a eloquent yet simplistic style that would in time prove him second only to Cicero of the orators in Rome. 
+	        Perhaps if Caesar was not so preoccupied with the administration of state before his assasination, he would have left us with more writings to give testimony to his excellence in speech. Today, we are left with his Commentaries
+	        on the Gaulic Wars, which even though written between battles during his expeditions into the deep forests of modern day France, remain one of the greatest extant works of Ancient Rome, rivaling even Virgil's Aeneid in influence on Western tradition.
+	        Caesar's Anticato has not been preserved. To think of all of the books that have slowly been forgotten through the never ending motion of time; that have retired into the earth that surrounds them under the streets of Rome and Alexandria; the same works which had once
+	        had a home in the libraries of Kings; to think of all of these undeserving works and the execreble fortunes that would have had to accompany them for all their copies to be lost is sorrowful. Cicero's Hortensius is no longer extant. 
+	        The reading of this work was the occasion that the Lord provided to St. Augustine for his conversion to the Faith when He heard the prayers of St. Monica. Nevertheless, we have been suffered its loss for a reason
+	        that only the Lord knows, but for it to have met the same fate as the rotten works that were cleansed with Savonarola's fire seems undeserving of a book that has been of such great benefit to the faith.
+	        </p>
+	        <p>
+	        Caesar once again made his way back to Rome on hearing that he was elected to the court of the pontiffs. For a few years at Rome, he continued his career in the courts, got elected as a military tribune, quaestor, then aedile. A notable court case during this time
+	        was leveled against Rabirius, who nearly four decades earlier was a partisan of the party that had massacred Saturninus and his supporters, and who bragged about personally killing Saturninus himself. It just so happens that Labienus, a long-time friend of Caesar's, had an uncle who
+	        was one of those who died with Saturninus. So, charges were brought against Rabirius, an undignified and aging member of the senate, nearly four decades after the alleged crimes. I am not an expert on Roman law
+	        by any means so I can not provide input on the statute of limitations in the republic, but judging by this event and Cicero's own ostracization years after the Cataline conspiracy which was just about to occur later in the year,
+	        it does not seem that the Romans were a very forgiving people. Labienus and Caesar would prosecute Rabirius, with Cicero and Hortensius on the defense. After the proceedings, Rabirius was found guilty but escaped
+	        justice (that is, if he was even truly guilty) due to an archaic procedure where a flag would be lowered outside the Campus Martius to signify Rome was in danger. During the sentencing of Rabirius, a praetor ordered the flag to be lowered and the assembly was disolved.
+	        This mess of a trial would prove to be a substantial victory for Labienus, and for Caesar as well. They two had jointly beaten the two greatest orators in Rome in prosecuting a Roman senator. As we have seen in the young Caesar's previous
+	        failed prosecutions against Dolabella and other Roman citizens who were obviously guilty of their crimes, to actually convict a Roman was very difficult, trebly so when you were trying to convict him against
+	        Cicero and Hortensius. 
+	        </p>
+	        <p>
+	        In the same year, 63 BC, which has yet to see it's most consequential event, Metellus, Rome's Pontifex Maximus died, leaving the office vacant. Caesar would have his first real opportunity to secure himself as a leading figure in the Roman senate 
+	        and was willing to risk everything to secure his election to the highest religious office in the republic. What Caesar needed most was money. He had already made a name for himself as an extravagent spender, but this was less of a vice and more of a strategem. 
+	        The young Caesar would host luxurious parties, and when he was an aedile he supplied the city with hundreds of gladiators for the games out of his own pocket. He was buying the support of the people and all his spending would soon pay off, but first he needed to ameliorate the
+	        passions of his creditors. Caesar went to Crassus and after recieving surety, he devoted everything to his candidacy for Pontifex Maximus. Plutarch relates to us that on the day of the election, when his mother in tears went with him to the door,  
+	        he kissed her and said, "Mother, today you will see your son either Pontifex Maximus or an exile." It was a close contest, but Caesar won.
 	        </p>
      	</div>
     
