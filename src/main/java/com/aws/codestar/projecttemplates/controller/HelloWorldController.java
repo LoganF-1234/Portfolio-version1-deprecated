@@ -30,4 +30,22 @@ public class HelloWorldController {
         ModelAndView mav = new ModelAndView("caesar");
         return mav;
     }
+    
+    @RequestMapping("Alexander")
+    public ModelAndView alexanderPage() {
+    	ModelAndView mave = new ModelAndView("alexander");
+    	return mave;
+    }
+    
+    @RequestMapping("Tiberius Gracchus")
+    public ModelAndView tiberiusPage() {
+    	ModelAndView mave = new ModelAndView("tiberiusGracchus");
+    	return mave;
+    }
+    
+    @RequestMapping("CatoTheYounger")
+    public ModelAndView catoYPage() {
+    	ModelAndView mave = new ModelAndView("catoTheYounger");
+    	return mave;
+    }
 }

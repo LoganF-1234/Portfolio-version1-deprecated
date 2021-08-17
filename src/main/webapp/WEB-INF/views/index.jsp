@@ -72,9 +72,9 @@
         <nav class="website-nav">
           <ul>
             <li><a class="home-link" href="http://loganferrera.com/Caesar">Caesar</a></li>
-            <li><a href="https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Alexander*/home.html">Alexander</a></li>
-            <li><a href="https://penelope.uchicago.edu/Thayer/e/roman/texts/plutarch/lives/tiberius_gracchus*.html">Tiberius Gracchus</a></li>
-            <li><a href="https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Cato_Minor*.html">Cato</a></li>
+            <li><a href="http://loganferrera.com/Alexander">Alexander</a></li>
+            <li><a href="http://loganferrera.com/TiberiusGracchus">Tiberius Gracchus</a></li>
+            <li><a href="http://loganferrera.com/CatoTheYounger">Cato</a></li>
           </ul>
         </nav>
       </header>
