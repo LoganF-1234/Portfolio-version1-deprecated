@@ -196,13 +196,13 @@ footer .footer-contents {
 }
 
 .mountain .path {
-animation: dash 3s cubic-bezier(0.55, 0.06, 0.68, 0.19) forwards;  
+animation: dash 15s linear forwards;  
 animation-delay: 4s;    
 }
 
 .mountain-right .path {
-	animation: dash 3s cubic-bezier(0.55, 0.06, 0.68, 0.19) forwards;
-	animation-delay: 4.3s;
+	animation: dash 15s linear forwards;
+	animation-delay: 5s;
 }
 
 @keyframes dash {

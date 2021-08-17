@@ -37,15 +37,15 @@ public class HelloWorldController {
     	return mave;
     }
     
-    @RequestMapping("Tiberius Gracchus")
+    @RequestMapping("TiberiusGracchus")
     public ModelAndView tiberiusPage() {
-    	ModelAndView mave = new ModelAndView("tiberiusGracchus");
-    	return mave;
+    	ModelAndView maven = new ModelAndView("tiberiusGracchus");
+    	return maven;
     }
     
     @RequestMapping("CatoTheYounger")
     public ModelAndView catoYPage() {
-    	ModelAndView mave = new ModelAndView("catoTheYounger");
-    	return mave;
+    	ModelAndView maveny = new ModelAndView("catoTheYounger");
+    	return maveny;
     }
 }

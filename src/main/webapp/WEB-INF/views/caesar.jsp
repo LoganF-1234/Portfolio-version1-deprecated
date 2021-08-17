@@ -82,8 +82,8 @@
 	        Antonius appealed to a tribune of the plebs and the proceedings were vetoed before a verdict could be met. 	        
 	        </p>
 	        <p>
-	        It seems Caesar may have made some enemies as a result of his fervent speeches against the former consul Dolabella, prompting him to depart for Rhodes to study under Apollonius who had studied with Cicero only years earlier. 
-	        Appollionus is remembered in history only for the instruction of his formerly mentioned students and if you will forgive my digression that will hopefully give a fuller context of the times, as a critic of Judaism, 
+	        It seems Caesar may have made some enemies as a result of his fervent speeches against the former consul Dolabella, prompting him to depart for Rhodes to study under Apollonius who had mentored Cicero only years earlier. 
+	        Appollionus is remembered in history mainly for his brief instruction of Cicero and Caesar, and if you will forgive my digression that will hopefully give a fuller context of the times, as a critic of Judaism, 
 	        “calumniating Moses as an impostor, and a deceiver; and pretending that Judaic laws teach wickedness; but nothing that is virtuous.” Caesar himself lived near a Jewish slum in Rome for some time, but other than that 
 	        it does not seem as if the Old Religion had much of an impact on Caesar himself or any of his contemporaries. In only sixty years time, during the reign of Augustus, would Our Saviour Christ be born to the Blessed Virgin.
 	        </p>
@@ -98,9 +98,8 @@
 	        </p>
      	</div>
     
-    
-   
-    
-    
+    <footer>
+      <p class="footer-contents"></p>
+    </footer>
   </body>
 </html>
