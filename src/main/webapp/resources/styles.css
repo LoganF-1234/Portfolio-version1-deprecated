@@ -202,7 +202,7 @@ animation-delay: 3.2s;
 
 .mountain-right .path {
 	animation: dash 12s linear forwards;
-	animation-delay: 5s;
+	animation-delay: 5.2s;
 }
 
 @keyframes dash {
