@@ -48,8 +48,9 @@ footer, .push {
 }
 
 footer .footer-contents {
-  padding: 0 5rem;
-  position: relative;
+  padding: 1rem;
+  position: fixed;
+  bottom: 0;
 }
 
 .website-nav {
@@ -225,7 +226,7 @@ animation-delay: 3.2s;
 
   .graphics {
     display: block;
-    margin-bottom: 6rem;
+    margin-bottom: 1rem;
   }
 
   .message .twitter-link img {

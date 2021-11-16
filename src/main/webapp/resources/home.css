@@ -20,8 +20,26 @@ body {
 }
 
 header {
+ position: fixed;
+ right: 0;
+ left: 0;
+ top: 0;	
  height: 7%;
  background: black;
+}
+
+header .container {
+	width: 940px;
+	margin-left: auto;
+	margin-right:auto;
+}
+
+.pull-right {
+	float: right;
+}
+
+.home-name {
+	float: left;
 }
 
 h1, h2, h3 {
@@ -64,7 +82,7 @@ header .pull-right {
 
 .website-nav {
   position: relative;
-  padding: 5rem;
+  padding: 0.5rem;
 }
 
 .website-nav ul {
