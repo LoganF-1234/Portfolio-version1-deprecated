@@ -53,6 +53,22 @@ body {
 	z-index: 1;
 }
 
+.section1 {
+	
+}
+
+.section2 {
+	
+}
+
+[class*="section"] {
+	min-height: 1px;
+}
+
+.row {
+	
+}
+
 .pull-right {
 	float: right;
 }
