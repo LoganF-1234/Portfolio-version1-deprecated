@@ -19,15 +19,22 @@
     <div class="wrapper">
 	  
       <header>
+      <div class="container">
+      	<a class="home-name" href="/">
+      		<div class="home-name-name">
+      		loganferrera.com
+      		</div>
+      	</a>
         <nav class="website-nav">
-          <ul>
-            <li><div class="text"><h1>Logan Ferrera</h1></div></li>
+          <ul class="pull-right">
             <li><a class="home-link" href="http://loganferrera.com/Caesar">Portfolio</a></li>
             <li><a href="http://loganferrera.com/Alexander">The Great Men</a></li>
             <li><a href="http://loganferrera.com/TiberiusGracchus">The Great Women</a></li>
             <li><a href="http://loganferrera.com/CatoTheYounger">Misc</a></li>
           </ul>
-        </nav>
+        </nav>         
+      </div>
+     
       </header>
 
       <div class="message">
@@ -37,7 +44,7 @@
           </a> -->
         <div class="text">
           <h1>Welcome to my Website!</h1>
-          <h2>These are some projects that I have been working. Take a look!</h2>
+          <h2>These are some projects that I have been working on. Take a look!</h2>
        
         </div>
       </div>

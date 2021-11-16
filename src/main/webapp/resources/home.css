@@ -20,10 +20,8 @@ body {
 }
 
 header {
- height: 10%;
- background: burlywood;
- border-bottom-left-radius: 5px;
- border-bottom-right-radius: 5px;
+ height: 7%;
+ background: black;
 }
 
 h1, h2, h3 {
@@ -55,8 +53,13 @@ footer, .push {
 }
 
 footer .footer-contents {
-  padding: 0 5rem;
+  padding: 0.5rem;
   position: relative;
+}
+
+header .pull-right {
+	float: right;
+	margin-right: 0;
 }
 
 .website-nav {
