@@ -49,9 +49,9 @@ public class HelloWorldController {
     	return maveny;
     }
     
-    @RequestMapping("Home")
+    @RequestMapping("greatmen")
     public ModelAndView homePage() {
-    	ModelAndView maveny = new ModelAndView("home");
+    	ModelAndView maveny = new ModelAndView("index");
     	return maveny;
     }
 }
