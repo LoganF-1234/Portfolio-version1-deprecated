@@ -48,4 +48,10 @@ public class HelloWorldController {
     	ModelAndView maveny = new ModelAndView("catoTheYounger");
     	return maveny;
     }
+    
+    @RequestMapping("Home")
+    public ModelAndView homePage() {
+    	ModelAndView maveny = new ModelAndView("home");
+    	return maveny;
+    }
 }
