@@ -16,15 +16,16 @@
     <link href="${gradientsCss}" rel="stylesheet">
   </head>
   <body class="">
-    
-
+    <div class="wrapper">
+	  
       <header>
         <nav class="website-nav">
           <ul>
-            <li><a class="home-link" href="http://loganferrera.com/Caesar">Caesar</a></li>
-            <li><a href="http://loganferrera.com/Alexander">Alexander</a></li>
-            <li><a href="http://loganferrera.com/TiberiusGracchus">Tiberius Gracchus</a></li>
-            <li><a href="http://loganferrera.com/CatoTheYounger">Cato</a></li>
+            <li><div class="text"><h1>Logan Ferrera</h1></div></li>
+            <li><a class="home-link" href="http://loganferrera.com/Caesar">Portfolio</a></li>
+            <li><a href="http://loganferrera.com/Alexander">The Great Men</a></li>
+            <li><a href="http://loganferrera.com/TiberiusGracchus">The Great Women</a></li>
+            <li><a href="http://loganferrera.com/CatoTheYounger">Misc</a></li>
           </ul>
         </nav>
       </header>
@@ -35,8 +36,9 @@
               <img src="${tweetSvg}" alt="Tweet"/>
           </a> -->
         <div class="text">
-          <h1>The Great Men</h1>
-          <h2>"So Shines a Good Deed in a Weary World"</h2>
+          <h1>Welcome to my Website!</h1>
+          <h2>These are some projects that I have been working. Take a look!</h2>
+       
         </div>
       </div>
     </div>
