@@ -19,6 +19,27 @@ body {
   font-size: 1.8rem;
 }
 
+.pad-top-h {
+	padding-top: 40px !important;
+}
+
+.pad-bot-f {
+	padding-bottom: 95px !important;
+}
+
+#h{
+	position: fixed;
+	top: 0;
+	height: auto;
+	z-index: 3;
+}
+
+#f{
+	position: fixed;
+	bottom: 0;
+	z-index: 2;
+}
+
 .pull-right {
 	float: right;
 }

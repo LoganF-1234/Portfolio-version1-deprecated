@@ -17,9 +17,9 @@
   </head>
  
   <body>
-	  <div class="b">
+	  <div id="b" class="pad-top-h pad-bot-f">
 	   
-	   <div class="h">
+	   <div id="h">
          <div class="container">
       	<a class="home-name" href="/">
       		<div class="home-name-name">
@@ -38,7 +38,7 @@
      
       </div> 
       
-      <div class="f">
+      <div id="f">
       <p class="f-contents">Designed and developed by Logan Ferrera</p>
     </div>
          
