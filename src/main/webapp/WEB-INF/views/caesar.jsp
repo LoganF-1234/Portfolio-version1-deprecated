@@ -37,12 +37,13 @@
         </h2>
 	        <p>
 	       	Gauis Julius Caesar was born at the turn of the 1st century BC to a patrician family who traces its roots through the epic hero Aeneas back to the goddess Venus. It is a testimony to Caesar's excellence 
-	       	that his progeny would sooner mention his name than the two former whilst speaking on their lineage -- and not only because he is nearer to them in years than the two former.
+	       	that his progeny would sooner name him than the two former whilst speaking on their lineage -- and not only because he is nearer in time than the two former.
 	       	Caesar would come into the Roman republic during a period of great social change catalyzed by the actions of the Gracchi brothers only 20 years before his mother Aurelia would give birth. 
 	       	The Gracchi themselves seem to be antecedents to Caesar, Plutarch explaining how “these sons Cornelia reared with such scrupulous care that although confessedly no other Romans were so well endowed by nature, 
 	       	they were thought to owe their virtues more to education than to nature” and it seems Caesar was both afforded an almost divine predestination to do great things and a loving mother in Aurelia. 
-	       	Caesar's uncle was the great Gauis Marius, a new man that would find a chief opponent in his junior commander Sulla. The young Caesar was also given a bride, Cornelia, daughter of his uncle's greatest ally, Cinna. 
-	       	After the battle at the Colline Gate, Sulla would successfully defeat the Marians and become dictator of the Republic after years of civil war. Naturally, watchful eyes were preying on Caesar at a young age due to his familial connections.   		
+	       	Caesar's uncle was the great Gauis Marius, a "new man" who would eventually make an opponent of his junior commander Sulla, beginning one of Rome's more consequential periods of civil conflict while Caesar was just a child. During this
+	       	period of unrest, the young Caesar was given a bride, Cornelia, who was the daughter of his uncles greatest ally, Lucius Cornelius Cinna. After the battle at the Colline Gate, Sulla would successfully defeat the Marians and become dictator of the Republic after years of civil war. 
+	       	Watchful eyes were preying on Caesar at a young age due to his familial connections.   		
 	        </p>
 	        <p>
 	        Sulla demanded Caesar divorce his wife, as he had with many other of the magistrates in Rome. The difference between Caesar and these other men was that he was the only one to deny Sulla's request. 
@@ -128,8 +129,8 @@
 	        stood for the consulship, and both times had he lost, now destitute. During Cicero's consulship, Catiline and his supporters were disrupting the senate by having the tribunes propose laws that would severely limit Pompey's command in the East which had been alotted to him to repel the threat of Mithridates. Cicero
 	        was able to curb these laws but was always suspicious of a deeper rebellion centered around these revolutionaries. Catiline turned demagogue, promising the people extravagent reforms and salvation from the corrupt senatorial elite. The consular elections 
 	        for the next year were coming up and standing for the candidacy were Catiline, Lucius Licinius Murena, and Decimus Junius Silanus. Silanus was the husband of Servilia, Caesar's long time lover and Cato's half-sister. To ensure his victory in the race, 
-	        Catiline resorted to bribery with the little money he had, which was customary enough in Rome but Cicero for these elections decided to impose new laws against it, with a penalty of ten eyars exile. These laws would be resounded by Cato realizing 
-	        that Catiline and subsequently all the other consular candidates began offering money for votes. Cato announced that he would immediately prosecute whoever the victor was because no one could have one without resorting to bribery, but he left out his brother-in-law
+	        Catiline resorted to bribery with the little money he had, which was customary enough in Rome but Cicero for these elections decided to impose new laws against it, with a penalty of ten years exile. Cato, realizing 
+	        that Catiline and subsequently all the other consular candidates began offering money for votes, announced that he would immediately prosecute whoever the victor was because no one could have won without resorting to bribery, leaving out his brother-in-law
 	        Silanus; regardless, this seems more like a fail-safe in case Catiline had won rather than a realistic threat. Plutarch tells us that Catiline had a plan to assassinate Cicero in the excitement of the election, and perhaps Cicero was suspicious of the 
 	        same when on the day of the election, after having already delayed it once due to "eathquakes, thunderbolts, and strange apparitions", he questioned Catiline about the rumors going on about him. Catiline gave Cicero a peculiar answer: "What crime am I comitting, if, when I two bodies, one thin and wasted
 	        but with a head, the other headless but big and stalwart, I constitute myself a head for that one?" The time to vote had come and Cicero arrived at the Campus Martius with a group of armed bodyguard, himself quite obviously wearing a breastplate under his toga.
@@ -138,19 +139,19 @@
 	        <p>
 	        Being rejected for the fourth time from the consular office, Catiline was humiliated. He stayed in Rome, going about business as usual while behind the scenes an army was forming in Etruria under Gaius Manlius. The wheels of
 	        revolution were slowly turning North of Rome whilst the mastermind behind it all continued to walk through the Forum with a smile on his face like nothing was happening. One night Cicero was awoken by a banging on his door. Crassus, Marcus Marcellus, and 
-	        Scipio Metellus had come urgently with news of Catiline's conspiracy. Crassus explained to Cicero that his porter was given letters from a suspicious man adressed to Crassus. Crassus upon opening these letters was shocked to
-	        see a warning, telling him to at once flee Rome as much blood was about to be spilt. The next say Cicero called a meeting in the senate where they were all informed of the letters when a praetor stood up to inform them
+	        Scipio Metellus had come urgently with news of Catiline's conspiracy. Crassus explained to Cicero that his porter was given letters from a suspicious man addressed to Crassus. One of the letters infromed Crassus
+	        that blood was about to fil lthe streets of Rome, and that he must leave the city at once. The next day Cicero called a meeting in the senate where these letters were brought to light when a praetor stood up to inform them
 	        of the armies that were forming in Etruria. The senate passed the senatus consultus ultimatum which gave Cicero the power to do whatever he deemed necessary to protect the city. Soon Cicero was informed of another 
-	        plot to take his life; a woman named Fulvia, mistress of Gaius Curio who we become very important in few years time, came to Cicero at night to inform him that two men were going to be coming to his house with the pretense
-	        of a cordial meeting, and when Cicero least expected it would unsheathe their hidden weapons and kill him in his home. The men arrived at daybreak and were refused entry, striking up a clamor until finally they left. Cicero
+	        plot to take his life; a woman named Fulvia, mistress of Gaius Curio who will become very important in few years time, came to Cicero at night to inform him that two men were going to be coming to his house under the pretense
+	        of a cordial meeting, and when Cicero least expected would unsheathe their hidden weapons and kill him in his home. The men arrived at daybreak and were refused entry, striking up a clamor until finally they left. Cicero
 	        decided to call a meeting of the senate in the temple of Jupiter Stator. 
 	        </p>
 	        <p>
-	        That morning, senators walked through the Campus Martius, up the steps of the temple of Jupiter, and through the great archway that formed the firmament of the temple, only to find Catiline, sitting alone waiting for the meeting to start.
-	        As some sentators slowly piled in one by one, not one senator would dare sit near Catiline. He, sat all alone in his defense, was left with nothing but his thoughts as they waited for everyone to be in order. Then Cicero stood up, beginning to speak. 
-	        Every other senator was but a spectator as Cicero, stood in the middle of the temple, turned to Catiline -- "When, O Catiline, do you mean to cease abusing our patience? How long is that madness of yours still to mock us? 
+	        That morning, senators walked through the Campus Martius, up the steps of the temple of Jupiter, and through the great archway that formed the firmament of the temple, only to find Catiline, seated alone waiting for the meeting to start.
+	        One by one senators straggled into the temple of Jupiter and one by one they neglected Catiline and found a seat on the opposite side of the chamber. He, sat all alone in his defense, was left to in wonderment as to what his colleagues thought of him as they quickly diverted their attention away from him.
+	        Cicero soon stood up, beginning to speak. Every other senator was but a spectator as Cicero, stood in the middle of the temple, turned to Catiline -- "When, O Catiline, do you mean to cease abusing our patience? How long is that madness of yours still to mock us? 
 	        When is there to be an end of that unbridled audacity of yours, swaggering about as it does now?" At the end of his speech, Cicero turning to the statue of Jupiter spoke thus: "Then do you, O Jupiter, who were consecrated by Romulus 
-	        with the same auspices as this city, whom we rightly call the stay of this city and empire, repel this man and his companions from your altars and from the other temples,from the houses and walls of the city,
+	        with the same auspices as this city, whom we rightly call the stay of this city and empire, repel this man and his companions from your altars and from the other temples, from the houses and walls of the city,
 	        from the lives and fortunes of all the citizens; and overwhelm all the enemies of good men, the foes of the republic, the robbers of Italy, men bound together by a treaty and infamous alliance of crimes, 
 	        dead and alive, with eternal punishments!"
 	        </p>
