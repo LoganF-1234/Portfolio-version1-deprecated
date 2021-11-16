@@ -18,7 +18,7 @@
  
   <body>
    <header>
-      <div class="container1">
+      <div class="container">
       	<a class="home-name" href="/">
       		<div class="home-name-name">
       		loganferrera.com
@@ -36,7 +36,7 @@
      
       </header>
 	  
-	  <div class="container2">
+	  <div class="container">
 	   <div class="message">
         <!-- Not using twitter link but want to keep this for future functionality
           <a class="twitter-link" href="https://twitter.com/">

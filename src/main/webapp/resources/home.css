@@ -28,19 +28,18 @@ header {
  background: black;
 }
 
-.container2 {
+header .container {
 	margin-left: auto;
+	margin-right:auto;
 	width: 940px;
-    margin-right: auto;
-    height: 93%;
 }
 
-header .container1 {
-	margin-left: auto;
+.container {
+	margin-right:auto;
+	margin-left:auto;
 	width: 940px;
-    margin-right: auto;
+	height: 93%;
 }
-
 .pull-right {
 	float: right;
 }
