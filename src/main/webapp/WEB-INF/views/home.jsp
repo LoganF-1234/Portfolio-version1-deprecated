@@ -37,7 +37,17 @@
       </div> 
       <div id="c">
 		<div class="center">
-			
+			<section>
+			 <div class="row">
+			 	<div class="section1">
+			 	  <h1>Welcome to my portfolio!</h1>
+			 	  <h2>Have a look around!</h2>
+			 	</div>
+			 	<div class="section2">
+			 	  <h1>Logan Ferrera</h1>
+			 	</div>
+			 </div>
+			</section>
 		</div>      
       </div>
       <div id="f">
