@@ -22,9 +22,7 @@
 	   <div id="h">
          <div class="container">
       	<a class="home-name" href="/">
-      		<div class="home-name-name">
       		loganferrera.com
-      		</div>
       	</a>
         <nav class="website-nav">
           <ul class="pull-right">
@@ -37,7 +35,11 @@
       </div>
      
       </div> 
-      
+      <div id="c">
+		<div class="center">
+			
+		</div>      
+      </div>
       <div id="f">
       <p class="f-contents">Designed and developed by Logan Ferrera</p>
     </div>
