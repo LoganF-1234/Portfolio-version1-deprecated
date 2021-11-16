@@ -19,27 +19,6 @@ body {
   font-size: 1.8rem;
 }
 
-header {
- position: fixed;
- right: 0;
- left: 0;
- top: 0;	
- height: 7%;
- background: black;
-}
-
-header .container {
-	margin-left: auto;
-	margin-right:auto;
-	width: 940px;
-}
-
-.container {
-	margin-right:auto;
-	margin-left:auto;
-	width: 940px;
-	height: 93%;
-}
 .pull-right {
 	float: right;
 }
@@ -65,24 +44,7 @@ a {
 }
 
 
-.wrapper {
-  min-height: 100%;
-  height: auto !important;
-  height: 100%;
-  margin: 0 auto -7rem;
-  position: relative;
-}
-
-footer, .push {
-  height: 7rem;
-}
-
-footer .footer-contents {
-  padding: 0.5rem;
-  position: relative;
-}
-
-header .pull-right {
+.h .pull-right {
 	float: right;
 	margin-right: 0;
 }
@@ -113,51 +75,6 @@ header .pull-right {
   font-weight: bold;
 }
 
-.message {
-  position: relative;
-  padding: 0 5rem;
-  margin-bottom: 3rem;
-  width: auto;
-}
-
-.message .twitter-link {
-  float: left;
-  margin-right: 20px;
-}
-
-.message .twitter-link img {
-  width: 40px;
-  height: 40px;
-}
-
-.message .text {
-  float: left;
-}
-
-
-.message:after, .website-nav:after {
-  content: " ";
-  display: table;
-  clear: both;
-}
-
-.graphics {
-  display: none;
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  margin-bottom: 0;
-}
-
-.graphics .tower svg {
-  width: calc(100vw);
-  height: calc(90vh);
-}
-
-.graphics .cloud {
-  top: 30rem;
-  position: relative;
-}
 
 .page-content {
   padding: 1rem 5rem;
@@ -167,130 +84,9 @@ header .pull-right {
   margin-bottom: 1rem;
 }
 
-.path {
-  stroke-dasharray: 4000;
-  stroke-dashoffset: 4000;
-}
-
-.sword .path {
-  animation: dash 5s linear forwards;
-}
-
-.sword-details-1 .path {
-  animation: dash 50s linear forwards;
-  animation-delay: 4.2s;
-}
-
-.sword-details-2 .path {
-  animation: dash 50s linear forwards;
-  animation-delay: 4.5s;
-}
-
-.sword-octopus .path {
-  animation: dash 40s linear forwards;
-  animation-delay: 5.2s;
-}
-
-.octopus-arms .path {
-  animation: dash 40s linear forwards;
-  animation-delay: 5s;
-}
-
-.banner .path {
-  animation: dash 70s linear forwards;
-  animation-delay: 5.2s;
-}
-
-.banner-end-lions .path {
-  animation: dash 60s linear forwards;
-  animation-delay: 5.4s;
-}
-
-.circles-rectangle .path {
-  animation: dash 100s linear forwards;
-  animation-delay: 5.6s;
-}
-
-.top-details .path {
-  animation: dash 60s linear forwards;
-  animation-delay: 5.8s;
-}
-
-.crossguard-details .path {
-  animation: dash 60s linear forwards;
-  animation-delay: 5s;
-}
-
-.hilt-details .path {
-  animation: dash 60s linear forwards;
-  animation-delay: 5s;
-}
-.clouds .path {	
-  animation: dash 6s cubic-bezier(0.72, 0.01, 0.59, 0.98) forwards; 
-  animation-delay: 5s;
-}
-
-.mountain .path {
-animation: dash 12s linear forwards;  
-animation-delay: 3.2s;    
-}
-
-.mountain-right .path {
-	animation: dash 12s linear forwards;
-	animation-delay: 5.2s;
-}
 
 @keyframes dash {
   to {
     stroke-dashoffset: 0;
-  }
-}
-
-@media (min-height: 500px) and (min-width: 700px) {
-  .message {
-    padding: 0;
-    width: 50%;
-    left: calc(50vw - 10rem);
-    top: calc(10vh - 15rem);
-  }
-
-  .message .text {
-    padding-right: 0rem;
-  }
-
-  .graphics {
-    display: block;
-    margin-bottom: 6rem;
-  }
-
-  .message .twitter-link img {
-    width: 70%;
-    height: 70%;
-  }
-
-  .page-content {
-    padding: 3rem 5rem;
-  }
-}
-
-@media (min-height: 500px) and (min-width: 1240px) {
-  .message {
-    left: calc(50vw - 10rem);
-    top: calc(10vh - 15rem);
-  }
-
-  h1 {
-    font-size: 5rem;
-  }
-
-  .message .twitter-link img {
-    width: 80%;
-    height: 80%;
-  }
-}
-
-@media (min-aspect-ratio: 11/5)  {
-  .graphics {
-    display: none;
   }
 }

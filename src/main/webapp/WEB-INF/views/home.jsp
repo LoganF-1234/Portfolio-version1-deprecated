@@ -17,8 +17,10 @@
   </head>
  
   <body>
-   <header>
-      <div class="container">
+	  <div class="b">
+	   
+	   <div class="h">
+         <div class="container">
       	<a class="home-name" href="/">
       		<div class="home-name-name">
       		loganferrera.com
@@ -34,30 +36,14 @@
         </nav>         
       </div>
      
-      </header>
-	  
-	  <div class="container">
-	   <div class="message">
-        <!-- Not using twitter link but want to keep this for future functionality
-          <a class="twitter-link" href="https://twitter.com/">
-              <img src="${tweetSvg}" alt="Tweet"/>
-          </a> -->
-        <div class="text">
-          <h1>Welcome to my Website!</h1>
-          <h2>These are some projects that I have been working on. Take a look!</h2>
-       
-        </div>
-      </div>
-	  
-	  </div>
-     
-     
-
+      </div> 
       
-
-    <footer>
-      <p class="footer-contents">Designed and developed by Logan Ferrera</p>
-    </footer>
+      <div class="f">
+      <p class="f-contents">Designed and developed by Logan Ferrera</p>
+    </div>
+         
+    </div>
+	   
 
     <script src={$setBackgroundJs}"></script>
   </body>
