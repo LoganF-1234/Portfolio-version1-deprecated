@@ -50,10 +50,10 @@
 			</section>
 			<section>
 			 <div class="row">
-			  <div class="section1">
+			  <div class="section3">
 			 	  <h1>The Great Men</h1>
 			 	</div>
-			 	<div class="section2">
+			 	<div class="section4">
 			 	  <h1>The Great Women</h1>
 			 	</div>
 			 </div>

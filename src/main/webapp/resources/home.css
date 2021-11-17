@@ -50,8 +50,13 @@ body {
 	left: 0;
 	right: 0;
 	background: linear-gradient(1deg, #2f4f4f 50%, #92b3ac 200%);
+	min-height: 3rem;
 }
 
+.f-contents {
+	font-size: 1.3rem;
+	padding: 1rem;
+}
 #c {
 	padding-top: 4rem;
 	color: black;
@@ -65,10 +70,19 @@ body {
 }
 
 .section1 {
-	
+	float: left;
+	width: 500px;
 }
 
 .section2 {
+	float: left;
+	width:400px;	
+}
+.section3{
+	
+}
+
+.section4 {
 	
 }
 
@@ -76,8 +90,13 @@ body {
 	min-height: 1px;
 }
 
-.row {
-	
+.row:before, .row:after{
+	display: table;
+	content: "";
+}
+
+.row:after {
+	clear:both;
 }
 
 .pull-right {
