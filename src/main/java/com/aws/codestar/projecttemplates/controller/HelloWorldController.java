@@ -51,7 +51,7 @@ public class HelloWorldController {
     
     @RequestMapping("greatmen")
     public ModelAndView greatmenPage() {
-    	ModelAndView maveny = new ModelAndView("index");
+    	ModelAndView mavenyx = new ModelAndView("index");
     	return mavenyx;
     }
     
