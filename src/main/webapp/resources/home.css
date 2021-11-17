@@ -69,6 +69,21 @@ body {
 	margin-right: 5rem;
 }
 
+.graphics1 {
+	height: 45px;
+	width: 400px;
+	float:left;
+	margin-left: 31rem;
+	padding-right:15rem;
+}
+
+.graphics2 {
+	float:left;
+	padding-left: 15rem;
+	margin-right: 31rem;
+	height: 45px;
+	width: 400px;
+}
 .section1 {
 	float: left;
 	width: 500px;
