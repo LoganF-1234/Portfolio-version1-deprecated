@@ -12,7 +12,8 @@ html {
   font-family: "Times New Roman", Times, serif;
   font-size: 62.5%;
   color: white;
-  background: linear-gradient(to bottom, #020111 10%, #3a3a52 100%);
+  background: tan;
+  background-image: url(exclusive_paper.png);
 }
 
 body {
@@ -34,11 +35,12 @@ body {
 	z-index: 3;
 	left: 0;
 	right: 0;
+	background: darkslategrey;
 }
 
 .container {
-	margin-left: auto;
-	margin-right: auto;
+	margin-left: 5rem;
+	margin-right: 2rem;
 }
 #f{
 	position: fixed;
@@ -48,9 +50,15 @@ body {
 	right: 0;
 }
 
+#c {
+	padding-top: 4rem;
+}
+
 .center{
 	position: relative;
 	z-index: 1;
+	margin-left: 5rem;
+	margin-right: 5rem;
 }
 
 .section1 {

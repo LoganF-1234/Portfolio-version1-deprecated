@@ -21,7 +21,7 @@
  <header>
         <nav class="website-nav">
           <ul>
-            <li><a class="home-link" href="http://loganferrera.com/">Home</a></li>
+            <li><a class="home-link" href="http://loganferrera.com/greatmen">Back</a></li>
           </ul>
         </nav>
       </header>

@@ -71,7 +71,7 @@
       <header>
         <nav class="website-nav">
           <ul>
-            <li><a class="home-link" href="http://loganferrera.com/Caesar">Caesar</a></li>
+            <li><a class="home-link" href="http://loganferrera.com/">Home</a></li>
             <li><a href="http://loganferrera.com/Alexander">Alexander</a></li>
             <li><a href="http://loganferrera.com/TiberiusGracchus">Tiberius Gracchus</a></li>
             <li><a href="http://loganferrera.com/CatoTheYounger">Cato</a></li>
