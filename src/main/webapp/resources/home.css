@@ -14,6 +14,7 @@ html {
   color: white;
   background: tan;
   background-image: url(exclusive_paper.png);
+  background-repeat: repeat;
 }
 
 body {
@@ -48,10 +49,12 @@ body {
 	z-index: 2;
 	left: 0;
 	right: 0;
+	background: darklatesgrey;
 }
 
 #c {
 	padding-top: 4rem;
+	color: black;
 }
 
 .center{
