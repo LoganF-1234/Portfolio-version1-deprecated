@@ -26,10 +26,10 @@
       	</a>
         <nav class="website-nav">
           <ul class="pull-right">
-            <li><a class="home-link" href="http://loganferrera.com/Caesar">Portfolio</a></li>
-            <li><a href="http://loganferrera.com/Alexander">The Great Men</a></li>
-            <li><a href="http://loganferrera.com/TiberiusGracchus">The Great Women</a></li>
-            <li><a href="http://loganferrera.com/CatoTheYounger">Misc</a></li>
+            <li><a class="home-link" href="http://loganferrera.com/portfolio">Portfolio</a></li>
+            <li><a href="http://loganferrera.com/greatmen">The Great Men</a></li>
+            <li><a href="http://loganferrera.com/greatwomen">The Great Women</a></li>
+            <li><a href="http://loganferrera.com/misc">Misc</a></li>
           </ul>
         </nav>         
       </div>
