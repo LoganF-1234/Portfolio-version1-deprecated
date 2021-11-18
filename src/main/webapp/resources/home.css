@@ -117,6 +117,9 @@ width: 500px;
 	clear:both;
 }
 
+.spin {
+	animation: dash 5s linear forwards;
+}
 .pull-right {
 	float: right;
 }
