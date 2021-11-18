@@ -51,6 +51,11 @@
 			<section>
 			 <div class="row">
 			  <div class="graphics1">
+			    <svg version="1.1" id="Layer_1" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="-11 170 1000 429" enable-background="new -11 170 1000 429" xml:space="preserve">
+			      <g class="spin">
+			         <path class="path" fill="none" stroke="#FFFFFF" stroke-width="1" stroke-miterlimit="10" d="M 8.587 3.927 C 4.878 4.034 4.352 2.468 3.671 1.902 A 1 1 0 0 0 2.327 3.902 A 1 1 0 0 0 3.886 2.97 A 1 1 0 0 0 3.241 2.253 A 1 1 0 0 0 2.489 2.45 A 1 1 0 0 0 2.309 3.132 A 1 1 0 0 0 2.614 3.49 A 1 1 0 0 0 3.044 3.615 A 1 1 0 0 0 3.42 3.436 M 8.588 3.927 C 9.5353 3.9117 10.4827 3.8963 11.534 3.94 C 14.317 4.098 14.747 2.557 15.41 1.984 C 15.965 1.5 16.718 1.894 16.879 2.288 C 17.291 2.915 17.004 3.524 16.807 3.775 C 16.413 4.384 15.249 4.098 15.177 3.524 C 14.891 2.969 15.356 2.288 15.822 2.288 C 16.467 2.199 16.897 2.647 16.646 3.274 C 16.431 3.954 15.607 3.811 15.553 3.256">
+			      </svg>
+			      </g>
 			    <div class="section3">
 			 	  <h1>The Great Men</h1>
 			 	</div>

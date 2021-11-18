@@ -70,23 +70,24 @@ body {
 }
 
 .graphics1 {
-	height: 45px;
-	width: 400px;
-	float:left;
-	margin-left: 31rem;
-	padding-right:15rem;
+	height: 150px;
+width: 500px;
+float: left;
+margin-left: 16rem;
+padding-right: 5rem;
 }
 
 .graphics2 {
-	float:left;
-	padding-left: 15rem;
-	margin-right: 31rem;
-	height: 45px;
-	width: 400px;
+	float: left;
+padding-left: 5rem;
+margin-right: 16rem;
+height: 150px;
+width: 500px;
 }
 .section1 {
 	float: left;
 	width: 500px;
+	height: 23rem;
 }
 
 .section2 {
@@ -94,11 +95,13 @@ body {
 	width:400px;	
 }
 .section3{
-	
+	padding: 6rem;
+	text-align: center;
 }
 
 .section4 {
-	
+	padding: 6rem;
+	text-align: center;
 }
 
 [class*="section"] {
