@@ -52,12 +52,12 @@
 			 <div class="row">
 			  <div class="graphics1">			      
 			    <div class="section3">
-			 	  <h1>The Great Men</h1>
+			 	  <a class="greatmen" href="/GreatMen">The Great Men</a>
 			 	</div>
 			 </div>
 			   <div class="graphics2">
 			 	<div class="section4">
-			 	  <h1>The Great Women</h1>
+			 	  <a class="greatwomen" href="/GreatWomen">The Great Women</a>
 			 	</div>
 			   </div>
 			 </div>

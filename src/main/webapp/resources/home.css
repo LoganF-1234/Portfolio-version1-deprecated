@@ -104,6 +104,14 @@ width: 500px;
 	text-align: center;
 }
 
+.greatmen:hover {
+	filter: brightness(150%);
+}
+
+.greatwomen:hover {
+	filter: brightness(150%);
+}
+
 [class*="section"] {
 	min-height: 1px;
 }
