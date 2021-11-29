@@ -104,6 +104,15 @@ width: 500px;
 	text-align: center;
 }
 
+.greatmen {
+	font-size: 3.5rem;
+  font-weight: bold;
+}
+
+.greatwomen {
+	font-size: 3.5rem;
+  font-weight: bold;
+}
 .greatmen:hover {
 	filter: brightness(150%);
 }
