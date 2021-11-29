@@ -107,17 +107,19 @@ width: 500px;
 .greatmen {
 	font-size: 3.5rem;
   font-weight: bold;
+  color: black;
 }
 
 .greatwomen {
 	font-size: 3.5rem;
   font-weight: bold;
+  color: black;
 }
-.greatmen:hover {
+.section3:hover {
 	filter: brightness(150%);
 }
 
-.greatwomen:hover {
+.section4:hover {
 	filter: brightness(150%);
 }
 
