@@ -44,7 +44,7 @@
 			 	  <h2>Have a look around!</h2>
 			 	</div>
 			 	<div class="section2">
-			 	  <h1>Logan Ferrera</h1>
+			 	  <h1></h1>
 			 	</div>
 			 </div>
 			</section>

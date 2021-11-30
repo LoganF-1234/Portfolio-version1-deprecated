@@ -73,19 +73,19 @@ body {
 }
 
 .graphics1 {
-	height: 150px;
-width: 500px;
-float: left;
-margin-left: 2rem;
-padding-right: 5rem;
+    height: 150px;
+    width: 400px;
+    float: left;
+    margin-left: 5rem;
+    padding-right: 2rem;
 }
 
 .graphics2 {
 	float: left;
-padding-left: 5rem;
-margin-right: 20rem;
-height: 150px;
-width: 500px;
+    padding-left: 2rem;
+    margin-right: 5rem;
+    height: 150px;
+    width: 400px;
 }
 .section1 {
 	float: left;
@@ -108,21 +108,21 @@ width: 500px;
 }
 
 .greatmen {
-	font-size: 3.5rem;
+font-size: 3rem;
   font-weight: bold;
   color: black;
 }
 
 .greatwomen {
-	font-size: 3.5rem;
+	font-size: 3rem;
   font-weight: bold;
   color: black;
 }
-.section3:hover {
+.greatmen:hover {
 	filter: brightness(150%);
 }
 
-.section4:hover {
+.greatwomen:hover {
 	filter: brightness(150%);
 }
 
