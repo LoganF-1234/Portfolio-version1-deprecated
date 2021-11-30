@@ -73,19 +73,17 @@ body {
 }
 
 .graphics1 {
-    height: 150px;
-    width: 400px;
-    float: left;
-    margin-left: 5rem;
-    padding-right: 2rem;
+  height: 150px;
+width: 365px;
+float: left;
+padding-right: 2rem;
 }
 
 .graphics2 {
 	float: left;
-    padding-left: 2rem;
-    margin-right: 5rem;
-    height: 150px;
-    width: 400px;
+padding-left: 2rem;
+height: 150px;
+width: 365px;
 }
 .section1 {
 	float: left;
