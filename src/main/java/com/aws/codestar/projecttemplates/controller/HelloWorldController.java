@@ -60,5 +60,23 @@ public class HelloWorldController {
     	ModelAndView mavenyxz = new ModelAndView("greatwomen");
     	return mavenyxz;
     }
+  
+    @RequestMapping("Cornelia")
+    public ModelAndView cornelia() {
+    	ModelAndView mavenyxza = new ModelAndView("cornelia");
+    	return mavenyxza;
+    }
+    
+    @RequestMapping("StJoan")
+    public ModelAndView stJoan() {
+    	ModelAndView mavenyxzab = new ModelAndView("stjoan");
+    	return mavenyxzab;
+    }
+    
+    @RequestMapping("StDymphna")
+    public ModelAndView stDymphna() {
+    	ModelAndView mavenyxzabc = new ModelAndView("stdymphna");
+    	return mavenyxzabc;
+    }
     
 }
