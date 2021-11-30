@@ -8,7 +8,7 @@
     <meta name="description" content="" />
 
     <spring:url value="/resources/gradients.css" var="gradientsCss" />
-    <spring:url value="/resources/styles.css" var="stylesCss" />
+    <spring:url value="/resources/women.css" var="stylesCss" />
     <spring:url value="/resources/set-background.js" var="setBackgroundJs" />
     <spring:url value="/resources/tweet.svg" var="tweetSvg" />
 
@@ -72,9 +72,9 @@
         <nav class="website-nav">
           <ul>
             <li><a class="home-link" href="/">Home</a></li>
-            <li><a href="/Caesar">Cornelia</a></li>
-            <li><a href="/TiberiusGracchus">St. Joan D'Arc</a></li>
-            <li><a href="/CatoTheYounger">St. Dymphna</a></li>
+            <li><a href="/Cornelia">Cornelia</a></li>
+            <li><a href="/StJoan">St. Joan D'Arc</a></li>
+            <li><a href="/StDymphna">St. Dymphna</a></li>
           </ul>
         </nav>
       </header>
