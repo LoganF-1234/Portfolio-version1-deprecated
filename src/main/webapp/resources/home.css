@@ -18,7 +18,10 @@ html {
 }
 
 body {
-  font-size: 1.8rem;
+    font-size: 1.8rem;
+    margin-left: auto;
+    margin-right: auto;
+    width: 940px;
 }
 
 .pad-top-h {
@@ -73,14 +76,14 @@ body {
 	height: 150px;
 width: 500px;
 float: left;
-margin-left: 26rem;
+margin-left: 2rem;
 padding-right: 5rem;
 }
 
 .graphics2 {
 	float: left;
 padding-left: 5rem;
-margin-right: 26rem;
+margin-right: 20rem;
 height: 150px;
 width: 500px;
 }
