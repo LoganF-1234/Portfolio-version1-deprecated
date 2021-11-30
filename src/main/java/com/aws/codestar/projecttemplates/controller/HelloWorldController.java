@@ -55,4 +55,10 @@ public class HelloWorldController {
     	return mavenyx;
     }
     
+    @RequestMapping("greatwomen")
+    public ModelAndView greatmenPage() {
+    	ModelAndView mavenyxz = new ModelAndView("greatwomen");
+    	return mavenyxz;
+    }
+    
 }

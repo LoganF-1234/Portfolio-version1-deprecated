@@ -72,9 +72,9 @@
         <nav class="website-nav">
           <ul>
             <li><a class="home-link" href="/">Home</a></li>
-            <li><a href="/Caesar">Caesar</a></li>
-            <li><a href="/TiberiusGracchus">Tiberius Gracchus</a></li>
-            <li><a href="/CatoTheYounger">Cato</a></li>
+            <li><a href="/Caesar">Cornelia</a></li>
+            <li><a href="/TiberiusGracchus">St. Joan D'Arc</a></li>
+            <li><a href="/CatoTheYounger">St. Dymphna</a></li>
           </ul>
         </nav>
       </header>
@@ -85,8 +85,8 @@
               <img src="${tweetSvg}" alt="Tweet"/>
           </a> -->
         <div class="text">
-          <h1>The Great Men</h1>
-          <h2>"Some are Born Great, Some Achieve Greatness, and Some Have Greatness Thrust Upon Them"</h2>
+          <h1>The Great Women</h1>
+          <h2>"So Shines a Good Deed in a Weary World"</h2>
         </div>
       </div>
     </div>
