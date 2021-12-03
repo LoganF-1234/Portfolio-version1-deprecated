@@ -86,12 +86,7 @@ height: 150px;
 width: 365px;
 }
 
-.greatmen {
-    background-color: red;
-}
-.greatmen:hover {
-    box-shadow: inset 0 0 100px 100px rgba(255, 255, 255, 0.1);
-}
+
 
 .section1 {
 	float: left;
