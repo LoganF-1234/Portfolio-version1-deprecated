@@ -95,7 +95,7 @@ span {
   transition: transform 270ms ease;
 }
 
-a:hover span {
+a.greatmen:hover span {
   transform: translateX(0);
 }
 
@@ -108,7 +108,7 @@ span::before {
   text-decoration: underline;
 }
 
-a:hover span::before {
+a.greatmen:hover span::before {
   transform: translateX(0);
 }
 
