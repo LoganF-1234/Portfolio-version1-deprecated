@@ -52,7 +52,7 @@
 			 <div class="row">
 			  <div class="graphics1">			      
 			    <div class="section3">
-			 	  <a class="greatmen" href="/greatmen">The Great Men</a>
+			 	  <a class="greatmen" href="/greatmen"><span data-content="The Great Men" aria-hidden="true"></span>The Great Men</a>
 			 	</div>
 			 </div>
 			   <div class="graphics2">

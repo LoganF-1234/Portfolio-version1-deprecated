@@ -73,7 +73,7 @@
           <ul>
             <li><a class="home-link" href="/">Home</a></li>
             <li><a href="/Cornelia">Cornelia</a></li>
-            <li><a href="/StJoan">St. Joan D'Arc</a></li>
+            <li><a href="/StJoan">St. Joan d'Arc</a></li>
             <li><a href="/StDymphna">St. Dymphna</a></li>
           </ul>
         </nav>

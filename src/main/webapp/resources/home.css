@@ -85,6 +85,33 @@ padding-left: 2rem;
 height: 150px;
 width: 365px;
 }
+
+span {
+  position: absolute;
+  top: 0;
+  left: 0;
+  overflow: hidden;
+  transform: translateX(-100%);
+  transition: transform 270ms ease;
+}
+
+a:hover span {
+  transform: translateX(0);
+}
+
+span::before { 
+  display: inline-block;
+  content: attr(data-content);
+  color: midnightblue;
+  transform: translateX(100%);
+  transition: transform 270ms ease;
+  text-decoration: underline;
+}
+
+a:hover span::before {
+  transform: translateX(0);
+}
+
 .section1 {
 	float: left;
 	width: 500px;

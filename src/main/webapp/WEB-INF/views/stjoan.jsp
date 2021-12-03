@@ -30,7 +30,7 @@
  
       <div class="spacious">
         <h1>
-        St. Joan D'Arc
+        St. Joan d'Arc
         </h1>
         <h2>
       
