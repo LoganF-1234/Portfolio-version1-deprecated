@@ -86,30 +86,11 @@ height: 150px;
 width: 365px;
 }
 
-span {
-  position: absolute;
-  top: 0;
-  left: 0;
-  overflow: hidden;
-  transform: translateX(-100%);
-  transition: transform 270ms ease;
+.greatmen {
+    background-color: red;
 }
-
-a.greatmen:hover span {
-  transform: translateX(0);
-}
-
-span::before { 
-  display: inline-block;
-  content: attr(data-content);
-  color: midnightblue;
-  transform: translateX(100%);
-  transition: transform 270ms ease;
-  text-decoration: underline;
-}
-
-a.greatmen:hover span::before {
-  transform: translateX(0);
+.greatmen:hover {
+    box-shadow: inset 0 0 100px 100px rgba(255, 255, 255, 0.1);
 }
 
 .section1 {
