@@ -10,7 +10,7 @@
     <spring:url value="/resources/gradients.css" var="gradientsCss" />
     <spring:url value="/resources/home.css" var="stylesCss" />
     <spring:url value="/resources/set-background.js" var="setBackgroundJs" />
-    <spring:url value="/resources/tweet.svg" var="tweetSvg" />
+    <spring:url value="/resources/drawing.svg" var="drawingSVG" />
 
     <link href="${stylesCss}" rel="stylesheet">
     <link href="${gradientsCss}" rel="stylesheet">
@@ -52,7 +52,7 @@
 			 <div class="row">
 			  <div class="graphics1">			      
 			    <div class="section3">
-			 	  <a class="greatmen" href="/greatmen">The Great Men</a>
+			 	  <a class="greatmen" href="/greatmen">  <img src="${drawingSVG}" alt="Tweet"/></a>
 			 	</div>
 			 </div>
 			   <div class="graphics2">
