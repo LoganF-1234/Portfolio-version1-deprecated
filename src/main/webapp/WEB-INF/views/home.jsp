@@ -11,6 +11,8 @@
     <spring:url value="/resources/home.css" var="stylesCss" />
     <spring:url value="/resources/set-background.js" var="setBackgroundJs" />
     <spring:url value="/resources/drawing.svg" var="drawingSVG" />
+    <spring:url value="/resources/greatwomen.svg" var="womenSVG" />
+    
 
     <link href="${stylesCss}" rel="stylesheet">
     <link href="${gradientsCss}" rel="stylesheet">
@@ -57,7 +59,7 @@
 			 </div>
 			   <div class="graphics2">
 			 	<div class="section4">
-			 	  <a class="greatwomen" href="/greatwomen">The Great Women</a>
+			 	  <a class="greatwomen" href="/greatwomen"> <img src="${womenSVG}" alt="Tweet"/></a>
 			 	</div>
 			   </div>
 			 </div>
