@@ -90,17 +90,16 @@ width: 365px;
 .botright,
 .topleft,
 .botleft {
-  animation-name: go;
-  animation-duration: 4000ms;
-  animation-iteration-count: infinite;
-  animation-timing-function: linear;
-  animation-play-state: paused;
   visibility:hidden;
 }
 
-svg:hover #svg5{
+svg:hover .botleft,
+svg:hover .botright,
+svg:hover .topright,
+svg:hover .topleft{
   visibility: visible;
-  animation-play-state: running;
+    animation: dash 50s linear forwards;
+  
 }
 
 .section1 {
