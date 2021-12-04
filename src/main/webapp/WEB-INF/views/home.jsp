@@ -61,7 +61,7 @@
 			   <div class="graphics2">
 			 	<div class="section4">
 							<a class="greatwomen" href="/greatwomen"> 
-								<!-- Created with Inkscape (http://www.inkscape.org/) --> <svg
+								<svg
 									id="svg5" width="88mm" height="30mm" version="1.1"
 									viewBox="0 0 88 30" xmlns="http://www.w3.org/2000/svg"> <g
 									id="layer1"> <text id="text31363" transform="scale(.26458)"
