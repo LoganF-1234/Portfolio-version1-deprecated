@@ -79,15 +79,35 @@
         </nav>
       </header>
 
-      <div class="message">
-        <!-- Not using twitter link but want to keep this for future functionality
-          <a class="twitter-link" href="https://twitter.com/">
-              <img src="${tweetSvg}" alt="Tweet"/>
-          </a> -->
-        <div class="text">
-          <h1>The Great Men</h1>
-          <h2>"Some are Born Great, Some Achieve Greatness, and Some Have Greatness Thrust Upon Them"</h2>
-        </div>
+      <div id="c">
+		<div class="center">
+			<section>
+			 <div class="row">
+			 	<div class="section1">
+			 	  <h1>Welcome to my portfolio!</h1>
+			 	  <h2>Have a look around!</h2>
+			 	</div>
+			 	<div class="section2">
+			 	  <h1></h1>
+			 	</div>
+			 </div>
+			</section>
+			<section>
+			 <div class="row">
+			  <div class="graphics1">			      
+			    <div class="section3">
+			 	  <a class="greatmen" href="/greatmen">  <img src="${drawingSVG}" alt="Tweet"/></a>
+			 	</div>
+			 </div>
+			   <div class="graphics2">
+			 	<div class="section4">
+							<a class="greatwomen" href="/greatwomen"> <img src="${womenSVG}" alt="Tweet"/></a>
+						</div>
+						
+			   </div>
+			 </div>
+			 </section>
+		</div>      
       </div>
     </div>
 
