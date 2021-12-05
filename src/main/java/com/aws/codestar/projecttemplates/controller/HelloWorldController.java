@@ -79,4 +79,9 @@ public class HelloWorldController {
     	return mavenyxzabc;
     }
     
+    @RequestMapping("test")
+    public ModelAndView testHomePage() {
+    	ModelAndView mavenyxzabcd = new ModelAndView("testHome");
+    	return mavenyxzabcd;
+    }
 }

@@ -10,7 +10,6 @@
 
     <spring:url value="/resources/gradients.css" var="gradientsCss" />
     <spring:url value="/resources/home.css" var="stylesCss" />
-    <spring:url value="/resources/set-background.js" var="setBackgroundJs" />
     <spring:url value="/resources/drawing.svg" var="drawingSVG" />
     <spring:url value="/resources/fix.svg" var="womenSVG" />
     
