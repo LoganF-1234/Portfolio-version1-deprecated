@@ -54,27 +54,21 @@ a {
   height: 150px;
 width: 365px;
 float: left;
-padding-right: 2rem;
+padding-right: 5rem;
 }
 
 .graphics2 {
 	float: left;
-padding-left: 2rem;
+padding-left: 5rem;
 height: 150px;
 width: 365px;
 }
 
 
 .section1 {
-	float: left;
-	width: 500px;
-	height: 23rem;
+	height: 10rem;
 }
 
-.section2 {
-	float: left;
-	width:400px;	
-}
 .section3{
 	padding: 6rem;
 	text-align: center;

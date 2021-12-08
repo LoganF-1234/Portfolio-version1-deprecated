@@ -87,9 +87,6 @@
 			 	  <h1>Welcome to my portfolio!</h1>
 			 	  <h2>Have a look around!</h2>
 			 	</div>
-			 	<div class="section2">
-			 	  <h1></h1>
-			 	</div>
 			 </div>
 			</section>
 			<section>
