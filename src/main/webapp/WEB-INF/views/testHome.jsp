@@ -10,7 +10,7 @@
     <spring:url value="/resources/gradients.css" var="gradientsCss" />
     <spring:url value="/resources/testhome.css" var="stylesCss" />
     <spring:url value="/resources/drawing.svg" var="drawingSVG" />
-    <spring:url value="/resources/fixwhite.svg" var="womenSVG" />
+    <spring:url value="/resources/fix.svg" var="womenSVG" />
 
     <link href="${stylesCss}" rel="stylesheet">
     <link href="${gradientsCss}" rel="stylesheet">
