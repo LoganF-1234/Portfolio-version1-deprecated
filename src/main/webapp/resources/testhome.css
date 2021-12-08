@@ -19,14 +19,6 @@ body {
   font-size: 1.8rem;
 }
 
-#c {
-    font-size: 1.8rem;
-    margin-left: auto;
-    margin-right: auto;
-    width: 940px;
-	
-}
-
 h1, h2, h3 {
   font-weight: normal;
 }
@@ -40,6 +32,13 @@ h1 {
 a {
   color: white;
   text-decoration: none;
+}
+
+#c {
+    margin-left: auto;
+    margin-right: auto;
+    width: 940px;
+    text-align: center;
 }
 
 
@@ -268,3 +267,4 @@ animation-delay: 3.2s;
     display: none;
   }
 }
+

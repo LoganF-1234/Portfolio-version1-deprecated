@@ -8,9 +8,9 @@
     <meta name="description" content="" />
 
     <spring:url value="/resources/gradients.css" var="gradientsCss" />
-    <spring:url value="/resources/styles.css" var="stylesCss" />
-    <spring:url value="/resources/set-background.js" var="setBackgroundJs" />
-    <spring:url value="/resources/tweet.svg" var="tweetSvg" />
+    <spring:url value="/resources/testhome.css" var="stylesCss" />
+    <spring:url value="/resources/drawing.svg" var="drawingSVG" />
+    <spring:url value="/resources/fix.svg" var="womenSVG" />
 
     <link href="${stylesCss}" rel="stylesheet">
     <link href="${gradientsCss}" rel="stylesheet">
