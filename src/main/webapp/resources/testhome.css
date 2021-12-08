@@ -12,7 +12,7 @@ html {
   font-family: "Times New Roman", Times, serif;
   font-size: 62.5%;
   color: white;
-  background: linear-gradient(to bottom, #020111 10%, #3a3a52 100%);
+  background: linear-gradient(to bottom, #1d1d1d 10%, #055133 100%);
 }
 
 body {
@@ -48,6 +48,55 @@ a {
   height: 100%;
   margin: 0 auto -7rem;
   position: relative;
+}
+
+.graphics1 {
+  height: 150px;
+width: 365px;
+float: left;
+padding-right: 2rem;
+}
+
+.graphics2 {
+	float: left;
+padding-left: 2rem;
+height: 150px;
+width: 365px;
+}
+
+
+.section1 {
+	float: left;
+	width: 500px;
+	height: 23rem;
+}
+
+.section2 {
+	float: left;
+	width:400px;	
+}
+.section3{
+	padding: 6rem;
+	text-align: center;
+}
+
+.section4 {
+	padding: 6rem;
+	text-align: center;
+}
+
+
+[class*="section"] {
+	min-height: 1px;
+}
+
+.row:before, .row:after{
+	display: table;
+	content: "";
+}
+
+.row:after {
+	clear:both;
 }
 
 footer, .push {
