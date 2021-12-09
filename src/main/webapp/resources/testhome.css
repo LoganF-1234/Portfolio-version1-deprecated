@@ -223,7 +223,7 @@ footer .footer-contents {
 
 .pillar-side path {
 	animation: dash 10s linear forwards;
-	animation-delay: .2s;
+	animation-delay: .4s;
 }
 
 .pillar-base path {
@@ -248,12 +248,17 @@ footer .footer-contents {
 
 .downs path {
 	animation: dash 20s linear forwards;
-	animation-delay: 1.6s;
+	animation-delay: 1.8s;
 }
 
 .drapes path {
 	animation: dash 40s linear forwards;
-	animation-delay: 1.8;
+	animation-delay: 1.8s;
+}
+
+.emblems path {
+	animation: dash 20s linear forwards;
+	animation-delay: 1.8s;
 }
 
 @keyframes dash {
