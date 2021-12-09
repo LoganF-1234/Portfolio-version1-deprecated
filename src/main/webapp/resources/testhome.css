@@ -223,32 +223,37 @@ footer .footer-contents {
 
 .pillar-side path {
 	animation: dash 10s linear forwards;
-	animation-delay: 1s;
+	animation-delay: .2s;
 }
 
 .pillar-base path {
-	animation: dash 10s linear forwards;
+	animation: dash 20s linear forwards;
 	animation-delay: 0s;
 	
 }
 
 .right-swirl path {
-    animation: dash 10s linear forwards;
+    animation: dash 20s linear forwards;
 
 }
 
 .left-swirl path {
-	animation: dash 10s linear forwards;	
+	animation: dash 20s linear forwards;	
 }
 
 .lines path {
-	animation: dash 10s linear forwards;
-	animation-delay: 3s;
+	animation: dash 60s linear forwards;
+	animation-delay: 1.5s;
 }
 
 .downs path {
 	animation: dash 20s linear forwards;
-	animation-delay: 3s;
+	animation-delay: 1.6s;
+}
+
+.drapes path {
+	animation: dash 40s linear forwards;
+	animation-delay: 1.8;
 }
 
 @keyframes dash {

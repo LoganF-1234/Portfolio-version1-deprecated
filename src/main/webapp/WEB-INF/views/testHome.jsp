@@ -64,8 +64,9 @@
             	<path class="path" fill="none" stroke="#FFFFFF" stroke-width="1" stroke-miterlimit="10" d="M 103.486 261.207 C 105.946 262.149 105.469 266.904 105.56 269.996 V 545.667 C 105.526 547.551 105.306 551.154 103.486 551.388"/>
             	
             </g>
-            <g class="">
-            	<path class="path" fill="none" stroke="#FFFFFF" stroke-width="1" stroke-miterlimit="10" d=""/>
+            <g class="drapes">
+                <path class="path" fill="none" stroke="#FFFFFF" stroke-width="1" stroke-miterlimit="10" d="M 74.232 199.335 C 74.196 204.414 74.843 211.89 80.276 211.89 C 84.462 211.89 85.958 203.916 85.808 199.38 C 85.932 204.152 87.409 211.7 92.004 211.946 C 96.229 211.436 97.176 204.06 97.026 199.276 C 97.375 204.102 98.359 211.89 104.096 211.977"/>
+            	<path class="path" fill="none" stroke="#FFFFFF" stroke-width="1" stroke-miterlimit="10" d="M 74.23 199.335 C 73.836 204.364 73.37 211.983 68.8 212.092 C 64.588 211.892 63.316 204.625 63.365 199.328 C 63.282 204.947 62.282 211.913 58.345 212.004 C 54.65 211.913 52.953 206.128 52.727 199.174 C 52.926 206.079 50.683 211.907 48.185 211.982"/>
             </g>
             <g class="">
             	<path class="path" fill="none" stroke="#FFFFFF" stroke-width="1" stroke-miterlimit="10" d=""/>
