@@ -199,8 +199,17 @@ footer .footer-contents {
 }
 
 .graphics .tower svg {
-  width: calc(100vw);
+  width: calc(50vw);
   height: calc(90vh);
+}
+
+.graphics .tower2 svg {
+    width: calc(50vw);
+    height: calc(90vh);
+}
+
+.tower2 {
+	float: right;
 }
 
 .graphics .cloud {
@@ -215,6 +224,7 @@ footer .footer-contents {
 .page-content p {
   margin-bottom: 1rem;
 }
+
 
 .path {
   stroke-dasharray: 4000;
