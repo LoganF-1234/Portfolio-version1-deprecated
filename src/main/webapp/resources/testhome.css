@@ -246,6 +246,11 @@ footer .footer-contents {
 	animation-delay: 3s;
 }
 
+.downs path {
+	animation: dash 20s linear forwards;
+	animation-delay: 3s;
+}
+
 @keyframes dash {
   to {
     stroke-dashoffset: 0;
