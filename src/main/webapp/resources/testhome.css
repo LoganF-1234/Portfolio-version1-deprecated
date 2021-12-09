@@ -221,24 +221,29 @@ footer .footer-contents {
   stroke-dashoffset: 4000;
 }
 
-.pillar-base path {
-	animation: dash 5s linear forwards;
-	
+.pillar-side {
+	animation: dash 10s linear forwards;
+	animation-delay: 1s;
 }
 
-.pillar-base2 path {
-	animation: dash 5s linear forwards;
+.pillar-base path {
+	animation: dash 10s linear forwards;
+	animation-delay: 0s;
 	
 }
 
 .right-swirl path {
-    animation: dash 5s linear forwards;
+    animation: dash 10s linear forwards;
 
 }
 
 .left-swirl path {
-	animation: dash 5s linear forwards;
-	
+	animation: dash 10s linear forwards;	
+}
+
+.lines path {
+	animation: dash 10s linear forwards;
+	animation-delay: 3s;
 }
 
 @keyframes dash {
