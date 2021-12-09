@@ -52,13 +52,19 @@ span{
     width: 940px;
     text-align: center;
 }
+.bottom, .top {
+	visibility: hidden;
+}
 
+svg:hover .bottom,
+svg:hover .top{
+	visibility: visible;
+}
      .topright,
 .botright,
 .topleft,
 .botleft {
-    visibility: hidden;
-	
+    visibility: hidden;	
 }
 
 svg:hover .botleft,
