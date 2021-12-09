@@ -207,7 +207,9 @@ footer .footer-contents {
     width: calc(50vw);
     height: calc(90vh);
 }
-
+.tower {
+	float: left;
+}
 .tower2 {
 	float: right;
 }
