@@ -221,7 +221,7 @@ footer .footer-contents {
   stroke-dashoffset: 4000;
 }
 
-.pillar-side {
+.pillar-side path {
 	animation: dash 10s linear forwards;
 	animation-delay: 1s;
 }
