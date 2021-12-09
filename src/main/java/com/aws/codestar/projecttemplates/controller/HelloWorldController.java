@@ -20,7 +20,7 @@ public class HelloWorldController {
 
     @RequestMapping(method = RequestMethod.GET)
     public ModelAndView helloWorld() {
-        ModelAndView mav = new ModelAndView("home");
+        ModelAndView mav = new ModelAndView("testHome");
         mav.addObject("siteName", this.siteName);
         return mav;
     }
@@ -81,7 +81,7 @@ public class HelloWorldController {
     
     @RequestMapping("test")
     public ModelAndView testHomePage() {
-    	ModelAndView mavenyxzabcd = new ModelAndView("testHome");
+    	ModelAndView mavenyxzabcd = new ModelAndView("home");
     	return mavenyxzabcd;
     }
 }
