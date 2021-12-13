@@ -19,7 +19,7 @@
     <div class="wrapper">
       <div class="graphics">
         <div class="tower">
-          <svg version="1.1" id="Layer_1" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="-11 170 1000 429" enable-background="new -11 170 1000 429" xml:space="preserve">
+          <svg version="1.1" id="Layer_1" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="300 350 10 250" enable-background="new -11 170 1000 429" xml:space="preserve">
             <g class = "dandelion">
             	<path class="path" fill="none" stroke="#FFFFFF" stroke-width=".5" stroke-miterlimit="10" d="M -5.535 576.804 L 129.456 576.796 C 132.131 562.173 139.437 548.858 140.987 534.528 M 140.987 534.528 
 
