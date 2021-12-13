@@ -142,9 +142,14 @@ footer .footer-contents {
   animation: dash 35s linear forwards;
 }
 
+.dandelion2 .path {
+	animation: dash 35s linear forwards;
+	animation-delay: 1s;
+}
+
 .seeds .path {
-	animation: dash 120s linear forwards;
-	 animation-delay: 1s;
+	animation: dash 75s linear forwards;
+	animation-delay: 1s;
 	
 }
 
