@@ -144,10 +144,12 @@ footer .footer-contents {
 
 .seeds .path {
 	animation: dash 120s linear forwards;
+	  animation-delay: 1s;
+	
 }
 
 .clouds .path {	
-  animation: dash 6s cubic-bezier(0.72, 0.01, 0.59, 0.98) forwards; 
+  animation: dash 20s cubic-bezier(0.72, 0.01, 0.59, 0.98) forwards; 
   animation-delay: 5s;
 }
 
