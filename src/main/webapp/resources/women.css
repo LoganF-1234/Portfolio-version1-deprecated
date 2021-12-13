@@ -147,9 +147,13 @@ footer .footer-contents {
 	animation-delay: .8s;
 }
 
+.dandelion-stem .path {
+	animation: dash 50s linear forwards;
+}
+
 .seeds .path {
 	animation: dash 75s linear forwards;
-	animation-delay: 1.2s;
+	animation-delay: 1.5s;
 	
 }
 
