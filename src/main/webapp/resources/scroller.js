@@ -7,8 +7,13 @@ const flightPath = {
 	]
 }
 
-dandy.addEventListener('mouseover', mouseOverEffect);
-dandy.addEventListener('mouseout', mouseOutEffect);
+for(var i = 0; i <dandy.length; i++) {
+	dandy[i].addEventListener('mouseover', mouseOverEffect);
+	dandy[i].addEventListener('mouseout', mouseOutEffect);
+}
+
+
+
 
 function mouseOverEffect() {
 	this.classList.add("seed-visible");
