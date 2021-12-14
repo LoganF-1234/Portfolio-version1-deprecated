@@ -99,7 +99,7 @@
     <footer>
       <p class="footer-contents">Designed and developed by Logan Ferrera</p>
     </footer>
-	<script type="text/javascript" src="${pageContext.request.contextPath}/js/scroller.js"></script>
+	<script type="text/javascript" src="${pageContext.request.contextPath}/resources/scroller.js"></script>
     <script src= "scrollerJs"></script>
   </body>
 </html>
