@@ -9,7 +9,7 @@
 
     <spring:url value="/resources/gradients.css" var="gradientsCss" />
     <spring:url value="/resources/women.css" var="stylesCss" />
-    <spring:url value="/resources/set-background.js" var="setBackgroundJs" />
+    <spring:url value="/resources/scroller.js" var="scrollerJs" />
     <spring:url value="/resources/tweet.svg" var="tweetSvg" />
 
     <link href="${stylesCss}" rel="stylesheet">

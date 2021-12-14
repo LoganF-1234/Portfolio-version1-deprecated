@@ -149,6 +149,7 @@ footer .footer-contents {
 
 .dandelion-stem .path {
 	animation: dash 50s linear forwards;
+	animation-delay: .7s;
 }
 
 .seeds .path {
@@ -160,6 +161,10 @@ footer .footer-contents {
 .clouds .path {	
   animation: dash 20s cubic-bezier(0.72, 0.01, 0.59, 0.98) forwards; 
   animation-delay: 5s;
+}
+
+.seed-visible {
+	visibility: hidden;
 }
 
 
