@@ -1,4 +1,4 @@
-var dandy = document.getElementsByClassName('seeds');
+var dandy = document.getElementById('path1');
 
 const flightPath = {
 	curviness: 1.25,
