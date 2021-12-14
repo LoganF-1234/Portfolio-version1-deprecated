@@ -159,6 +159,7 @@ footer .footer-contents {
 
 .seeds .path1 {
 	animation: dash 75s linear forwards 1;
+	animation-delay: 1.5;
 }
 
 .clouds .path {	
