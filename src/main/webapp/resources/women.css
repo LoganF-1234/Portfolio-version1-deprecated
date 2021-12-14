@@ -138,6 +138,11 @@ footer .footer-contents {
   stroke-dashoffset: 4000;
 }
 
+.path1 {
+  stroke-dasharray: 4000;
+  stroke-dashoffset: 4000;
+}
+
 .dandelion .path {
   animation: dash 20s linear forwards;
 }
@@ -152,7 +157,7 @@ footer .footer-contents {
 	animation-delay: .7s;
 }
 
-.seeds .path {
+.seeds .path1 {
 	animation: dash 75s linear forwards;
 	animation-delay: 1.5s;
 	
