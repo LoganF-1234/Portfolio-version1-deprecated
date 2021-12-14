@@ -100,6 +100,6 @@
       <p class="footer-contents">Designed and developed by Logan Ferrera</p>
     </footer>
 
-    <script src={$scrollerJs}"></script>
+    <script src= "scrollerJs"></script>
   </body>
 </html>
