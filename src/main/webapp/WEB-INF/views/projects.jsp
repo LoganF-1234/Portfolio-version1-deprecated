@@ -43,7 +43,12 @@
 			</section>
 			<section>
 			 <div class="row">
-			  
+			  	<div class ="capsule container">
+			  		<img src="/resources/shoppingcart.png" alt="Shopping" style="width:100%" class="hover-opacity">
+			  		<div class="container container-grey">
+			  			
+			  		</div>
+			  	</div>
 			  
 			 </div>
 			 
