@@ -74,12 +74,12 @@ span{
 	float: left;
 }
 
-.capsule:hover {
+.home-link:hover {
     box-shadow: 2px 4px 5px white;
 }
 
 .container {
-
+	padding: 1rem;
 }
 
 p {

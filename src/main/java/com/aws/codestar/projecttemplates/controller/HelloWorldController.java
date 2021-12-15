@@ -90,4 +90,10 @@ public class HelloWorldController {
     	ModelAndView mavenyxzabcde = new ModelAndView("projects");
     	return mavenyxzabcde;
     }
+    
+    @RequestMapping("shopping-cart")
+    public ModelAndView shoppingCartPage() {
+    	ModelAndView mavenyxzabcde = new ModelAndView("shoppingcart");
+    	return mavenyxzabcde;
+    }
 }
