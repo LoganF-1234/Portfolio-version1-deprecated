@@ -25,9 +25,7 @@
       <header>
         <nav class="website-nav">
           <ul>
-            <li><a class="home-link" href="/">Home</a></li>
-            <li><a href="/greatmen">The Great Men</a></li>
-            <li><a href="/greatwomen">The Great Women</a></li>
+            <li><a class="home-link" href="/projects">Back</a></li>
           </ul>
         </nav>
       </header>
@@ -43,7 +41,14 @@
 			</section>
 			<section>
 			 <div class="row">
-			  
+			  <div class= "section1">
+			    <img src="/resources/site.png" alt="Portfolio" style="width:100%" class="hover-opacity">	    
+			  </div>
+			  <div class="section2">
+			  	<p>	testestestestestetstetetssauygasfi;hasdfidhfo;ishfo;ihfl;wke  lasejfp waiefpw ef'pwofj w'fp iwhjuw twpotiwah ;woaifn;foiajs hw;eogih
+							  	
+			  	</p>
+			  </div>
 			 </div>
 			 
 			 </section>
