@@ -52,28 +52,29 @@ span{
     width: 940px;
     text-align: center;
 }
-.bottom, .top {
+.bottom, .top,
+.topright,
+.botright,
+.topleft,
+.botleft,
+.top-cog,
+.bot-cog{
 	visibility: hidden;
 }
 
 svg:hover .bottom,
-svg:hover .top{
-	visibility: visible;
-}
-     .topright,
-.botright,
-.topleft,
-.botleft {
-    visibility: hidden;	
-}
-
+svg:hover .top,
 svg:hover .botleft,
 svg:hover .botright,
 svg:hover .topright,
-svg:hover .topleft{
-   visibility: visible;
-   
+svg:hover .topleft,
+svg:hover .top-cog,
+svg:hover .bot-cog{
+	visibility: visible;
 }
+
+
+
 
 .wrapper {
   min-height: 100%;
@@ -87,7 +88,7 @@ svg:hover .topleft{
   height: 150px;
 width: 365px;
 float: left;
-padding-right: 5rem;
+padding-right: 6rem;
 }
 
 .graphics2 {
@@ -100,6 +101,9 @@ width: 365px;
 .graphics3 {
 height: 150px;
 width: 365px;
+margin-left: 280px;
+margin-right: 280px;
+padding-top: 3rem;
 }
 
 
