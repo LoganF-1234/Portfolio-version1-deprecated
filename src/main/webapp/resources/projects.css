@@ -74,6 +74,21 @@ span{
 	float: left;
 }
 
+.container {
+  padding-top: 0.01em;
+    padding-right: 16px;
+    padding-bottom: 0.01em;
+    padding-left: 16px;
+}
+
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
 .container:before, 
 .container:after{
 	content: "";

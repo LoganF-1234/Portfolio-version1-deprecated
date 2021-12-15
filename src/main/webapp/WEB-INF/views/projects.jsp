@@ -43,6 +43,7 @@
 			</section>
 			<section>
 			 <div class="row">
+			   <a class="home-link" href="/">
 			  	<div class ="capsule container">
 			  		<img src="/resources/shoppingcart.png" alt="Shopping" style="width:100%" class="hover-opacity">
 			  		<div class="container container-grey">
@@ -54,6 +55,7 @@
 			  			</p>
 			  		</div>
 			  	</div>
+			   </a>
 			  
 			 </div>
 			 
