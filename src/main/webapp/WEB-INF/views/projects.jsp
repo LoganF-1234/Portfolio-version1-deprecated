@@ -56,6 +56,20 @@
 			  		</div>
 			  	  </a>
 			  	</div>
+			  	
+			  	<div class ="capsule container">
+			  	  <a class="shopping-link" href="/shopping-cart">
+			  		<img src="/resources/site.png" alt="Portfolio" style="width:100%" class="hover-opacity">
+			  		<div class="container container-grey">
+			  			<p>
+			  				<b>Portfolio Website</b>
+			  			</p>
+			  			<p>
+							<b>A look into how this website was made using Amazon Web Services, SVG tools, and Java Spring.</b>			  			
+			  			</p>
+			  		</div>
+			  	  </a>
+			  	</div>
 			  
 			  
 			 </div>
