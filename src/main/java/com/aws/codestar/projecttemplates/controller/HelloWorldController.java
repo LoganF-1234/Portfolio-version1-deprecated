@@ -84,4 +84,10 @@ public class HelloWorldController {
     	ModelAndView mavenyxzabcd = new ModelAndView("home");
     	return mavenyxzabcd;
     }
+    
+    @RequestMapping("projects")
+    public ModelAndView projectsPage() {
+    	ModelAndView mavenyxzabcde = new ModelAndView("projects");
+    	return mavenyxzabcde;
+    }
 }
