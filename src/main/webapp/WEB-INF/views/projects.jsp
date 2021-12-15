@@ -7,7 +7,7 @@
     <title>LoganFerrera</title>
     <meta name="description" content="" />
 
-    <spring:url value="/resources/testhome.css" var="stylesCss" />
+    <spring:url value="/resources/projects.css" var="stylesCss" />
     <spring:url value="/resources/drawing.svg" var="drawingSVG" />
     <spring:url value="/resources/fix.svg" var="womenSVG" />
 
@@ -46,7 +46,12 @@
 			  	<div class ="capsule container">
 			  		<img src="/resources/shoppingcart.png" alt="Shopping" style="width:100%" class="hover-opacity">
 			  		<div class="container container-grey">
-			  			
+			  			<p>
+			  				<b>Shopping Cart</b>
+			  			</p>
+			  			<p>
+							<b>Fully functional shopping cart Java application using a PostgreSQL database.</b>			  			
+			  			</p>
 			  		</div>
 			  	</div>
 			  
