@@ -44,7 +44,7 @@
 			<section>
 			 <div class="row">
 			  	<div class ="capsule container">
-			  	  <a class="home-link" href="/shopping-cart">
+			  	  <a class="shopping-link" href="/shopping-cart">
 			  		<img src="/resources/shoppingcart.png" alt="Shopping" style="width:100%" class="hover-opacity">
 			  		<div class="container container-grey">
 			  			<p>
