@@ -98,7 +98,7 @@
             	<path class="path" fill="none" stroke="#FFFFFF" stroke-width=".2" stroke-miterlimit="10" d="M 273.441 517.41 h -0.449"/>
             	<path class="path" fill="none" stroke="#FFFFFF" stroke-width=".2" stroke-miterlimit="10" d="M 272.773 523.689 v -1.527 c 0.069 -0.898 1.272 -0.881 1.31 0.004 v 1.526 h -1.31"/>
             	<path class="path" fill="none" stroke="#FFFFFF" stroke-width=".2" stroke-miterlimit="10" d="M 273.226 529.502 v -0.671 c -0.002 -0.208 0.429 -0.208 0.425 0 v 0.672 h -0.42"/>
-            	<path class="path" fill="none" stroke="#FFFFFF" stroke-width=".2" stroke-miterlimit="10" d="M 266.127 527.011 c 0.061 -1.091 1.68 -1.059 1.73 -0.014 c 0.028 1.13 -1.708 1.171"/>
+            	<path class="path" fill="none" stroke="#FFFFFF" stroke-width=".2" stroke-miterlimit="10" d="M 266.127 527.011 c 0.061 -1.091 1.68 -1.059 1.73 -0.014 c 0.028 1.13 -1.708 1.171 -1.73 0.014"/>
             	
             </g>
           
