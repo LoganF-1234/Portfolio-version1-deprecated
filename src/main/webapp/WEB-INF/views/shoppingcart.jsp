@@ -36,13 +36,14 @@
 			 <div class="row">
 			 	<div class="section1">
 			 	  <h1>Shopping Cart</h1>
+			 	  <h2>Welcome to the first project I developed as a university student!</h2>
 			 	</div>
 			 </div>
 			</section>
 			<section>
 			 <div class="row">
 			  <div class= "section2">
-			   <img src="/resources/login.png" alt="Shopping" style="width:100%" class="hover-opacity">
+			   <img src="/resources/login.png" alt="Shopping" style="width:100%" class="">
 			   
 			  </div>
 			 <div class="section3">

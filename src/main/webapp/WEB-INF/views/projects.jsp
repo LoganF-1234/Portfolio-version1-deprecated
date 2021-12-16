@@ -51,7 +51,7 @@
 			  				<b>Shopping Cart</b>
 			  			</p>
 			  			<p>
-							<b>Fully functional shopping cart Java application using a PostgreSQL database.</b>			  			
+							<b>A fully functional shopping cart application and database using Java and PostgreSQL.</b>			  			
 			  			</p>
 			  		</div>
 			  	  </a>
