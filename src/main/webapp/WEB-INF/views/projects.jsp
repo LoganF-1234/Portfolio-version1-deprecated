@@ -48,7 +48,7 @@
 			  		<img src="/resources/shoppingcart.png" alt="Shopping" style="width:100%" class="hover-opacity">
 			  		<div class="container container-grey">
 			  			<p>
-			  				<b>Shopping Cart</b>
+			  				<b class="bold">Shopping Cart</b>
 			  			</p>
 			  			<p>
 							<b>A fully functional shopping cart application and database using Java and PostgreSQL.</b>			  			
@@ -62,7 +62,7 @@
 			  		<img src="/resources/site.png" alt="Portfolio" style="width:100%" class="hover-opacity">
 			  		<div class="container container-grey">
 			  			<p>
-			  				<b>Portfolio Website</b>
+			  				<b class="bold">Portfolio Website</b>
 			  			</p>
 			  			<p>
 							<b>A look into how this website was made using Amazon Web Services, SVG tools, and Java Spring.</b>			  			
