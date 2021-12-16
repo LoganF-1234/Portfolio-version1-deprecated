@@ -69,6 +69,7 @@ span{
 .section2 {
 	width: 45%;
     height: 280px;
+    float: left;
 }
 
 .section1 {

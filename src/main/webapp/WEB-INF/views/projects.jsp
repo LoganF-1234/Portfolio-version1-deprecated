@@ -58,7 +58,7 @@
 			  	</div>
 			  	
 			  	<div class ="capsule container">
-			  	  <a class="portfolio" href="/portfolio">
+			  	  <a class="shopping-link" href="/portfolio">
 			  		<img src="/resources/site.png" alt="Portfolio" style="width:100%" class="hover-opacity">
 			  		<div class="container container-grey">
 			  			<p>
