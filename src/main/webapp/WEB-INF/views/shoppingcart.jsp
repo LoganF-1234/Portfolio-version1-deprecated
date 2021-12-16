@@ -84,11 +84,12 @@
 			   </div>
 			   
 			   <div class="row"> 
-			 	  <div class= "section3">
-			   		<p> </p> 
+			 	  <div class= "section2 low">
+			   		 <img src="/resources/cart.png" alt="Shopping" style="width:100%" class="">	
+			   		 
 			  </div>
-			 <div class="section2">
-					<img src="/resources/items.png" alt="Shopping" style="width:120%" class="">	
+			 <div class="section2 low">
+					<img src="/resources/items.png" alt="Shopping" style="width:100%" class="">	
 					<p class="meta">Table for items</p>
 			  </div>
 			   </div>
