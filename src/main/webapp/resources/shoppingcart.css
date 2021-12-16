@@ -81,6 +81,10 @@ span{
     height: 280px;
     width: 53%;
     padding-left: 1.88rem;
+    text-align: left;
+	display: flex;
+	justify-content: center;
+	align-items: center;
 }
 
 img {

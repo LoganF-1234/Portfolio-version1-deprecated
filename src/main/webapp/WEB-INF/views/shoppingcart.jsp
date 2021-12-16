@@ -47,7 +47,10 @@
 			   
 			  </div>
 			 <div class="section3">
-				<p></p>			  	
+				<p>The first thing the user is presented with upon opening this application. This would also be the first page designed and the first page
+					responsible for reigniting my love for application development. A lot of passion went into the creation of this program and it provided a great
+					collaborative experience with some of my fellow classmates. I will attempt to give a concise summary of all the inner-workings of this application, all
+					the way down to the database level. </p>			  	
 			  	
 			  </div>
 			 </div>

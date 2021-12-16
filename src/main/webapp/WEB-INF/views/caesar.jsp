@@ -62,7 +62,7 @@
 	        </p>
 	        <p>
 	        Caesar was again safely recieved into Rome with his wife Cornelia thanks to his mother. He was now 19, and not intending to further upset the dictator Sulla, Caesar would begin his mandatory years of military service in Asia and 
-	        would not return to Rome until the dictator's death. Under the command of his propraetor, Caesar would be sent to the court of King Nicomedes IV of Bithynia. An abhorrent rumour began to make its rounds among the men that Caesar 
+	        would not return to Rome until the dictator's death. Under the command of his propraetor, Caesar would be sent to the court of King Nicomedes IV of Bithynia. A rumour began to make its rounds among the men that Caesar 
 	        had been seduced and lay with King, due to his uncharacteristically lackadaisical conduct in his duties, preferring to revel in the luxuries of the foreign court instead of carrying out his bureaucratic responsibilities.        
 	        </p>
 	        <p>
