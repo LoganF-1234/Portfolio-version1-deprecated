@@ -212,7 +212,7 @@
 			  </div>
 			  
 			    <div class="section3 small"> 
-			 	  <p>Our tables have update succesfully!</p>
+			 	  <p>Our tables have updated succesfully!</p>
 			   </div>
 			   
 			   <div class="section2 low">
