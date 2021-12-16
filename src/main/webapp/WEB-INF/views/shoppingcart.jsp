@@ -98,7 +98,7 @@
 					<p class="meta">Table for users</p>
 			  </div>
 			  
-			  <div class="row"> 
+			 <div class="section3 small"> 
 			 	  <p>These are the tables used for this program. More details about their implementation will follow.</p>
 			   </div>
 			   </div>
