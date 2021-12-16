@@ -67,12 +67,19 @@ span{
 
 
 .section2 {
-	width:30%;
-	height: 200px;
+	width: 45%;
+    height: 280px;
 }
 
 .section1 {
 	padding: 2rem;
+}
+
+.section3 {
+    float: left;
+    height: 280px;
+    width: 53%;
+    padding-left: 1.88rem;
 }
 
 img {
