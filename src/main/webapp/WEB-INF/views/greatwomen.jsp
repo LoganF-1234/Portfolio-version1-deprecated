@@ -101,7 +101,16 @@
             	<path class="path" fill="none" stroke="#FFFFFF" stroke-width=".2" stroke-miterlimit="10" d="M 266.127 527.011 c 0.061 -1.091 1.68 -1.059 1.73 -0.014 c 0.028 1.13 -1.708 1.171 -1.73 0.014"/>
             	
             </g>
-          
+            <g class="gutters">
+            	<path class="path" fill="none" stroke="#FFFFFF" stroke-width=".2" stroke-miterlimit="10" d="M 262.674 535.355 h -4.466"/>
+            	<path class="path" fill="none" stroke="#FFFFFF" stroke-width=".2" stroke-miterlimit="10" d="M 258.207 531.499 l 4.227 -2.306 v -0.241"/>
+            	<path class="path" fill="none" stroke="#FFFFFF" stroke-width=".2" stroke-miterlimit="10" d="M 262.434 525.745 l 4.602 -1.817 l 3.986 1.355"/>
+            	<path class="path" fill="none" stroke="#FFFFFF" stroke-width=".2" stroke-miterlimit="10" d="M 262.669 531.623 l 4.326 -2.067 l 4.07 2.085"/>
+            </g>
+            <g class="north-transept">
+            	<path class="path" fill="none" stroke="#FFFFFF" stroke-width=".2" stroke-miterlimit="10" d="M 262.424 526.542 h -3.465 v -0.07 h -0.192 v 1.109 h 0.074 v 3.312"/>
+            	<path class="path" fill="none" stroke="#FFFFFF" stroke-width=".2" stroke-miterlimit="10" d="M 258.959 526.544 v 0.917 h 3.471 v 0.121 h -3.586"/>
+            </g>
           </svg>
         </div>
       </div>

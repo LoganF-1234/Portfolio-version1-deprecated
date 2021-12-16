@@ -196,6 +196,16 @@ footer .footer-contents {
 	animation: dash 300s linear forwards;
 	animation-delay: 3s;
 }
+
+.gutters .path {
+	animation: dash 300s linear forwards;
+	animation-delay: 2.5s;
+}
+
+.north-transept .path {
+	animation: dash 300s linear forwards;
+	animation-delay: 2.5s;
+}
 .seed-visible {
    animation: dash 75s linear forwards 1, move 10s ease !important;
 }
