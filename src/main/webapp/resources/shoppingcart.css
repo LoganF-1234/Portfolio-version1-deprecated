@@ -87,10 +87,10 @@ span{
 	align-items: center;
 }
 
-.section2 .low {
-	height: 200px;
+.section2.low {
+    height: 200px;
+    padding: 2rem;
 }
-
 
 img {
 	width: 100%;

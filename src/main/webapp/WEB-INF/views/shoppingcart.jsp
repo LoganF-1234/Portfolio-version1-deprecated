@@ -86,11 +86,36 @@
 			   <div class="row"> 
 			 	  <div class= "section2 low">
 			   		 <img src="/resources/cart.png" alt="Shopping" style="width:100%" class="">	
-			   		 
+			   		 <p class="meta">Table for user carts</p>
 			  </div>
 			 <div class="section2 low">
 					<img src="/resources/items.png" alt="Shopping" style="width:100%" class="">	
 					<p class="meta">Table for items</p>
+			  </div>
+			  
+			   <div class="section2 low">
+					<img src="/resources/users.png" alt="Shopping" style="width:100%" class="">	
+					<p class="meta">Table for users</p>
+			  </div>
+			  
+			  <div class="row"> 
+			 	  <p>These are the tables used for this program. More details about their implementation will follow.</p>
+			   </div>
+			   </div>
+			   
+			 </section>
+			 <section>
+			   <div class="row"> 
+			 	  <h2>The Program</h2>
+			   </div>
+			    
+			   <div class="row"> 
+			 	  <div class= "section2">
+			   <img src="/resources/.png" alt="Shopping" style="width:100%" class="">
+			   
+			  </div>
+			 <div class="section3">
+				<p></p> 	
 			  </div>
 			   </div>
 			   
