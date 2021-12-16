@@ -99,6 +99,11 @@ span{
     width: 45%;
 }
 
+.git-link img {
+	width:30%;
+	height:30%;
+}
+
 img {
 	width: 100%;
 	height: 100%;
