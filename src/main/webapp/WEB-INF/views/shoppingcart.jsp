@@ -41,11 +41,11 @@
 			</section>
 			<section>
 			 <div class="row">
-			  <div class= "section1">
+			  <div class= "section2">
 			   <img src="/resources/shoppingcart.png" alt="Shopping" style="width:100%" class="hover-opacity">
 			   
 			  </div>
-			 <div class="section2">
+			 <div class="section3">
 							  	
 			  	
 			  </div>
