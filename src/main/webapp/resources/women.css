@@ -177,7 +177,20 @@ footer .footer-contents {
 	animation: dash 50s linear forwards;
 	animation-delay: .7s;
 }
+.church-side .path {
+	animation: dash 50s linear forwards;
+	animation-delay: .7s;
+}
 
+.stairs .path {
+	animation: dash 50s linear forwards;
+	animation-delay: .7s;
+}
+
+.church-inner .path {
+	animation: dash 50s linear forwards;
+	animation-delay: .7s;
+}
 .seed-visible {
    animation: dash 75s linear forwards 1, move 10s ease !important;
 }

@@ -72,8 +72,22 @@
             	<path class="path" fill="none" stroke="#FFFFFF" stroke-width=".2" stroke-miterlimit="10" d="M 55.298 557.141 c 33.772 -0.3523 64.198 -13.87 101.316 -1.057 c 17.419 5.79 36.259 5.199 47.483 -0.947 c 12.666 -6.576 23.121 -15.146 42.7 -17.891 c 5.404 -0.795 9.09 -0.979 14.493 -1.258 c 12.76 -0.653 23.05 0.995 32.176 1.969 c 11.694 1.977 28.036 4.152 57.154 1.166"/>
             </g>
             <g class="moon">
-            	<path class="path" fill="none" stroke="#FFFFFF" stroke-width=".15" stroke-miterlimit="10" d="M 218.301 518.082 a 1 1 0 0 0 -3.052 4.778 c -0.109 -2.309 0.582 -3.851 3.055 -4.76"/>
+            	<path class="path" fill="none" stroke="#FFFFFF" stroke-width=".2" stroke-miterlimit="10" d="M 218.301 518.082 a 1 1 0 0 0 -3.052 4.778 c -0.109 -2.309 0.582 -3.851 3.055 -4.76"/>
             </g>
+            <g class="church-side">
+            	<path class="path" fill="none" stroke="#FFFFFF" stroke-width=".2" stroke-miterlimit="10" d="M 258.207 536.148 v -4.649 l -0.246 0.141 l 4.449 -2.413 v -3.206 l -0.202 0.093 l 4.811 -1.991 l 3.939 1.361 "/>
+            	<path class="path" fill="none" stroke="#FFFFFF" stroke-width=".2" stroke-miterlimit="10" d="M 276.151 536.117 v -13.005 h -0.368 v -2.699 h 0.368 v -0.368 l 0.246 0.123 l -2.945 -1.595 l -2.695 1.532 l 0.21 -0.119 v 0.418 h 0.315 v 2.685 h -0.302 v 8.228"/>
+            </g>
+            <g class="stairs">
+            	<path class="path" fill="none" stroke="#FFFFFF" stroke-width=".2" stroke-miterlimit="10" d="M 262.151 535.947 v -0.144 h 9.394 v 0.115 v -0.115 h -0.213 v -0.114 h -8.956 v 0.114 v -0.114 h 0.172 v -0.104 h 8.679 v 0.103 v -0.103 h -0.165 v -0.092 h -8.385 v 0.092"/>
+            </g>
+            <g class="church-inner">
+            	<path class="path" fill="none" stroke="#FFFFFF" stroke-width=".2" stroke-miterlimit="10" d="M 262.677 535.493 v -0.273 h 0.169 c -0.006 -0.764 0.004 -0.983 0.003 -1.704 h -0.023 v -0.403 h -0.158 v -1.488 h -0.174 v -0.138 l 4.505 -2.251"/>
+            	<path class="path" fill="none" stroke="#FFFFFF" stroke-width=".2" stroke-miterlimit="10" d="M 271.062 535.493 v -0.276 h -0.2 c 0.01 -0.865 0.015 -0.87 0 -1.696 h 0.025 v -0.403 h 0.185 v -1.476 h 0.195 v -0.173 l -4.267 -2.233"/>
+            	<path class="path" fill="none" stroke="#FFFFFF" stroke-width=".2" stroke-miterlimit="10" d="M 263.328 535.492 v -0.275 h -0.171 c 0.003 -0.797 0 -0.972 0 -1.7 h 0.02 v -0.402 h 0.171 c 0.01 -0.58 0.378 -0.954 0.886 -0.96 c 0.566 0 0.883 0.434 0.882 0.961 h 0.184 v 0.399 h 0.037 c -0.006 0.931 -0.009 0.971 0 1.704 h -0.193 v 0.274 h 0.694 v -0.274 h -0.172 c 0.007 -0.753 0.004 -0.787 0.001 -1.701 h 0.033 v -0.4 h 0.175 c 0 -0.96 0.541 -1.535 1.125 -1.546"/>
+            	<path class="path" fill="none" stroke="#FFFFFF" stroke-width=".2" stroke-miterlimit="10" d="M 270.418 535.491 v -0.27 h 0.169 v -1.701 h -0.025 v -0.404 h -0.144 c 0.014 -0.452 -0.203 -0.94 -0.828 -0.962 c -0.651 0.022 -0.836 0.529 -0.803 0.964 h -0.143 v 0.398 h -0.015 v 1.702 h 0.155 v 0.273 h -0.644 v -0.272 h 0.14 v -1.703 h -0.016 v -0.399 h -0.154 c 0.005 -0.946 -0.503 -1.546 -1.11 -1.545"/>
+            </g>
+            
           
           </svg>
         </div>
