@@ -175,21 +175,26 @@ footer .footer-contents {
 
 .moon .path {
 	animation: dash 50s linear forwards;
-	animation-delay: .7s;
+	animation-delay: 2.2s;
 }
 .church-side .path {
-	animation: dash 50s linear forwards;
-	animation-delay: .7s;
+	animation: dash 100s linear forwards;
+	animation-delay: 2s;
 }
 
 .stairs .path {
 	animation: dash 50s linear forwards;
-	animation-delay: .7s;
+	animation-delay: 2s;
 }
 
 .church-inner .path {
-	animation: dash 50s linear forwards;
-	animation-delay: .7s;
+	animation: dash 100s linear forwards;
+	animation-delay: 2s;
+}
+
+.ornament .path {
+	animation: dash 150s linear forwards;
+	animation-delay: 2.2s;
 }
 .seed-visible {
    animation: dash 75s linear forwards 1, move 10s ease !important;

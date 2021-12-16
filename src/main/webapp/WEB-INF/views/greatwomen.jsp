@@ -75,8 +75,8 @@
             	<path class="path" fill="none" stroke="#FFFFFF" stroke-width=".2" stroke-miterlimit="10" d="M 218.301 518.082 a 1 1 0 0 0 -3.052 4.778 c -0.109 -2.309 0.582 -3.851 3.055 -4.76"/>
             </g>
             <g class="church-side">
-            	<path class="path" fill="none" stroke="#FFFFFF" stroke-width=".2" stroke-miterlimit="10" d="M 258.207 536.148 v -4.649 l -0.246 0.141 l 4.449 -2.413 v -3.206 l -0.202 0.093 l 4.811 -1.991 l 3.939 1.361 "/>
-            	<path class="path" fill="none" stroke="#FFFFFF" stroke-width=".2" stroke-miterlimit="10" d="M 276.151 536.117 v -13.005 h -0.368 v -2.699 h 0.368 v -0.368 l 0.246 0.123 l -2.945 -1.595 l -2.695 1.532 l 0.21 -0.119 v 0.418 h 0.315 v 2.685 h -0.302 v 8.228"/>
+            	<path class="path" fill="none" stroke="#FFFFFF" stroke-width=".2" stroke-miterlimit="10" d="M 258.207 536.148 v -4.649 h -0.229 l 0.007 -0.135 l 4.449 -2.413 v -3.206 h -0.202 l -0.008 -0.166 l 4.811 -1.991 l 3.993 1.386"/>
+            	<path class="path" fill="none" stroke="#FFFFFF" stroke-width=".2" stroke-miterlimit="10" d="M 276.151 536.117 v -13.005 h -0.368 v -2.699 h 0.368 v -0.374 h 0.227 l 0.006 -0.124 l -2.945 -1.595 l -2.656 1.584 v 0.137 l 0.233 0 v 0.372 h 0.315 v 2.685 h -0.302 v 8.228"/>
             </g>
             <g class="stairs">
             	<path class="path" fill="none" stroke="#FFFFFF" stroke-width=".2" stroke-miterlimit="10" d="M 262.151 535.947 v -0.144 h 9.394 v 0.115 v -0.115 h -0.213 v -0.114 h -8.956 v 0.114 v -0.114 h 0.172 v -0.104 h 8.679 v 0.103 v -0.103 h -0.165 v -0.092 h -8.385 v 0.092"/>
@@ -87,7 +87,20 @@
             	<path class="path" fill="none" stroke="#FFFFFF" stroke-width=".2" stroke-miterlimit="10" d="M 263.328 535.492 v -0.275 h -0.171 c 0.003 -0.797 0 -0.972 0 -1.7 h 0.02 v -0.402 h 0.171 c 0.01 -0.58 0.378 -0.954 0.886 -0.96 c 0.566 0 0.883 0.434 0.882 0.961 h 0.184 v 0.399 h 0.037 c -0.006 0.931 -0.009 0.971 0 1.704 h -0.193 v 0.274 h 0.694 v -0.274 h -0.172 c 0.007 -0.753 0.004 -0.787 0.001 -1.701 h 0.033 v -0.4 h 0.175 c 0 -0.96 0.541 -1.535 1.125 -1.546"/>
             	<path class="path" fill="none" stroke="#FFFFFF" stroke-width=".2" stroke-miterlimit="10" d="M 270.418 535.491 v -0.27 h 0.169 v -1.701 h -0.025 v -0.404 h -0.144 c 0.014 -0.452 -0.203 -0.94 -0.828 -0.962 c -0.651 0.022 -0.836 0.529 -0.803 0.964 h -0.143 v 0.398 h -0.015 v 1.702 h 0.155 v 0.273 h -0.644 v -0.272 h 0.14 v -1.703 h -0.016 v -0.399 h -0.154 c 0.005 -0.946 -0.503 -1.546 -1.11 -1.545"/>
             </g>
-            
+            <g class="ornament">
+            	<path class="path" fill="none" stroke="#FFFFFF" stroke-width=".2" stroke-miterlimit="10" d="M 262.826 533.113 l 0.351 0.002"/>
+            	<path class="path" fill="none" stroke="#FFFFFF" stroke-width=".2" stroke-miterlimit="10" d="M 265.3 533.116 l 0.4 0.002"/>
+            	<path class="path" fill="none" stroke="#FFFFFF" stroke-width=".2" stroke-miterlimit="10" d="M 268.264 533.117 l 0.38 0.001"/>
+            	<path class="path" fill="none" stroke="#FFFFFF" stroke-width=".2" stroke-miterlimit="10" d="M 270.562 533.116 l 0.325 0.002"/>
+            	<path class="path" fill="none" stroke="#FFFFFF" stroke-width=".2" stroke-miterlimit="10" d="M 270.976 520.041 h 5.186"/>
+            	<path class="path" fill="none" stroke="#FFFFFF" stroke-width=".2" stroke-miterlimit="10" d="M 273.442 518.317 v -1.266"/>
+            	<path class="path" fill="none" stroke="#FFFFFF" stroke-width=".2" stroke-miterlimit="10" d="M 273.441 517.41 h 0.466"/>
+            	<path class="path" fill="none" stroke="#FFFFFF" stroke-width=".2" stroke-miterlimit="10" d="M 273.441 517.41 h -0.449"/>
+            	<path class="path" fill="none" stroke="#FFFFFF" stroke-width=".2" stroke-miterlimit="10" d="M 272.773 523.689 v -1.527 c 0.069 -0.898 1.272 -0.881 1.31 0.004 v 1.526 h -1.31"/>
+            	<path class="path" fill="none" stroke="#FFFFFF" stroke-width=".2" stroke-miterlimit="10" d="M 273.226 529.502 v -0.671 c -0.002 -0.208 0.429 -0.208 0.425 0 v 0.672 h -0.42"/>
+            	<path class="path" fill="none" stroke="#FFFFFF" stroke-width=".2" stroke-miterlimit="10" d="M 266.127 527.011 c 0.061 -1.091 1.68 -1.059 1.73 -0.014 c 0.028 1.13 -1.708 1.171"/>
+            	
+            </g>
           
           </svg>
         </div>
