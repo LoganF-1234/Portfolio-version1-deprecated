@@ -7,7 +7,7 @@
     <title>LoganFerrera</title>
     <meta name="description" content="" />
 
-    <spring:url value="/resources/projects.css" var="stylesCss" />
+    <spring:url value="/resources/shoppingcart.css" var="stylesCss" />
     <spring:url value="/resources/drawing.svg" var="drawingSVG" />
     <spring:url value="/resources/fix.svg" var="womenSVG" />
 
