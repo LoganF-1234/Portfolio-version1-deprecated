@@ -77,10 +77,10 @@
 			   </div>
 			   
 			   <div class="row"> 
-			 	  <h2>I decided to use PostgreSQL to create a server on my local machine to hold the databases needed in this program. Although this would mean that
+			 	  <p>I decided to use PostgreSQL to create a server on my local machine to hold the databases needed in this program. Although this would mean that
 			 	  all the testing would need to be done from one machine, the efficiency of this method allowed me to quickly import my databases into my code
 			 	  and quickly see any changes that would be made to them. What was also preferred fromt his method was the stripped back automation, so that I could
-			 	  better understand how to navigate the SQL shell manually and learn more about SQL commands in the process.</h2>
+			 	  better understand how to navigate the SQL shell manually and learn more about SQL commands in the process.</p>
 			   </div>
 			   
 			   <div class="row"> 
