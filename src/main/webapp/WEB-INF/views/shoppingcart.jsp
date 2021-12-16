@@ -88,8 +88,8 @@
 			   		<p> </p> 
 			  </div>
 			 <div class="section2">
-					<img src="/resources/items.png" alt="Shopping" style="width:100%" class="">	
-					<p>Table for items</p>
+					<img src="/resources/items.png" alt="Shopping" style="width:120%" class="">	
+					<p class="meta">Table for items</p>
 			  </div>
 			   </div>
 			   
