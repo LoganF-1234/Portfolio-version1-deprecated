@@ -7,7 +7,7 @@
     <title>LoganFerrera</title>
     <meta name="description" content="" />
 
-    <spring:url value="/resources/projects.css" var="stylesCss" />
+    <spring:url value="/resources/shoppingcart.css" var="stylesCss" />
     <spring:url value="/resources/drawing.svg" var="drawingSVG" />
     <spring:url value="/resources/fix.svg" var="womenSVG" />
 
@@ -25,9 +25,7 @@
       <header>
         <nav class="website-nav">
           <ul>
-            <li><a class="home-link" href="/">Home</a></li>
-            <li><a href="/greatmen">The Great Men</a></li>
-            <li><a href="/greatwomen">The Great Women</a></li>
+            <li><a class="home-link" href="/projects">Back</a></li>
           </ul>
         </nav>
       </header>
@@ -37,41 +35,20 @@
 			<section>
 			 <div class="row">
 			 	<div class="section1">
-			 	  <h1>My Projects</h1>
+			 	  <h1>Portfolio Website</h1>
+			 	  <h2>An insight into this websites development</h2>
 			 	</div>
 			 </div>
 			</section>
 			<section>
 			 <div class="row">
-			  	<div class ="capsule container">
-			  	  <a class="shopping-link" href="/shopping-cart">
-			  		<img src="/resources/shoppingcart.png" alt="Shopping" style="width:100%" class="hover-opacity">
-			  		<div class="container container-grey">
-			  			<p>
-			  				<b>Shopping Cart</b>
-			  			</p>
-			  			<p>
-							<b>A fully functional shopping cart application and database using Java and PostgreSQL.</b>			  			
-			  			</p>
-			  		</div>
-			  	  </a>
-			  	</div>
+			  <div class= "section2">
+			   
+			  </div>
+			 <div class="section3">
+				<p></p>			  	
 			  	
-			  	<div class ="capsule container">
-			  	  <a class="portfolio" href="/portfolio">
-			  		<img src="/resources/site.png" alt="Portfolio" style="width:100%" class="hover-opacity">
-			  		<div class="container container-grey">
-			  			<p>
-			  				<b>Portfolio Website</b>
-			  			</p>
-			  			<p>
-							<b>A look into how this website was made using Amazon Web Services, SVG tools, and Java Spring.</b>			  			
-			  			</p>
-			  		</div>
-			  	  </a>
-			  	</div>
-			  
-			  
+			  </div>
 			 </div>
 			 
 			 </section>
