@@ -111,12 +111,39 @@
 			    
 			   <div class="row"> 
 			 	  <div class= "section2">
-			   <img src="/resources/.png" alt="Shopping" style="width:100%" class="">
+			   		<img src="/resources/createaccount.png" alt="Shopping" style="width:100%" class="">
+			  	  </div>
+			 	  <div class="section3">
+					<p>This is the create account page. Here the user can decide whether they want to be a customer, employee, or manager; each position
+						having it's own unique access to the tools within the program. After the summary of the program, we will look back at our databases to see
+						if there is any new additions.</p> 	
+			  	  </div>
+			   </div>
 			   
-			  </div>
-			 <div class="section3">
-				<p></p> 	
-			  </div>
+			   <div class="row">  
+			 	  <div class="section3">
+					<p>Upon creating a customer account, the user is taken to this page. Here they can look through the stores inventory in the drop down menu.
+						The user can type in how much of each item they would like, but cannot buy more of the item than is present in the store's inventory. This
+						page will dynamically update whenever there is a change to the database.</p> 	
+			  	  </div>
+			  	   <div class= "section2">
+			   		<img src="/resources/customershopping.png" alt="Shopping" style="width:100%" class="">
+			  	  </div>
+			 	</div>
+			 	
+			 	<div class="row"> 
+			 	  <div class= "section2">
+			   		<img src="/resources/createaccount.png" alt="Shopping" style="width:100%" class="">
+			  	  </div>
+			 	  <div class="section3">
+					<p>This is the create account page. Here the user can decide whether they want to be a customer, employee, or manager; each position
+						having it's own unique access to the tools within the program. After the summary of the program, we will look back at our databases to see
+						if there is any new additions. Upon checking out, the database will update again and subtract the item's in the user cart from the inventory.</p> 	
+			  	  </div>
+			   </div>
+			   
+			    <div class="row"> 
+			 	  <p>That will do for a brief summary of the customer section of the program. Now we will look at how it reacts when a manager signs in.</p>
 			   </div>
 			   
 			 </section>
