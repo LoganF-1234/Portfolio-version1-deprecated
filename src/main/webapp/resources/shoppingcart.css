@@ -100,9 +100,9 @@ span{
 }
 
 .section4 {
-	text-align: center;
 	width: 75%;
-    height: 400px;
+height: 450px;
+margin: auto;
 }
 
 .git-link img {

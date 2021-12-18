@@ -84,8 +84,11 @@
 			   </div>
 			   
 			   <div class= "row">
-			   	<div class= "section2">
+			   	<div class= "section4">
 			   		<img src="/resources/code build diagramo.drawio.png" alt="Shopping" style="width:100%" class="">	
+			  	</div>
+			  	<div class= "section4">
+			   		<img src="/resources/environment-diagram.drawio.png" alt="Shopping" style="width:100%" class="">	
 			  	</div>
 			   </div>
 			   
