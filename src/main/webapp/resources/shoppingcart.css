@@ -103,11 +103,10 @@ span{
 	width: 75%;
 height: 450px;
 margin: auto;
+padding-bottom: 2rem;
 }
 
-.section4.pad {
-    padding-bottom: 8rem;
-}
+
 
 .git-link img {
 	width:30%;

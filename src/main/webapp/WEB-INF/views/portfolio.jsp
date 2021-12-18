@@ -85,17 +85,17 @@
 			   
 			   <div class= "row">
 			   	<div class= "section4">
-			   		<img src="/resources/code build diagramo.drawio.png" alt="Shopping" style="width:100%" class="">	
+			   		<img src="/resources/code build diagramo.drawio.png" alt="CodeBuild Diagram" style="width:100%" class="">	
 			  	</div>
 			  	
 			   <div class="row"> 
-			 	  <p>Outlined above is the AWS solution for deploying new code into an environment. AWS offers a great automated soluton themselves for this called AWS Codestar
-			 	  	which can be used to make anythig from a serverless React web application to a Java Spring web application, the latter of which is what this website is. Using
-			 	  	the Code Pipeline, CodeBuild, and CloudFormation stacks, I am able to automatically pull my code straight from GitHub everytime I commit new changes from my IDE.</p>
+			 	  <p>Outlined above is the AWS solution for deploying new code into an environment. AWS offers a great automated soluti7on themselves for this called AWS Codestar
+			 	  	which can be used to make anything from a serverless React web application to a Java Spring web application, the latter of which is what this website is. Using
+			 	  	CodePipeline, CodeBuild, and CloudFormation stacks, I am able to automatically pull my code straight from GitHub everytime I commit new changes from my IDE.</p>
 			    </div>
 			   
 			  	<div class= "section4">
-			   		<img src="/resources/environment-diagram.drawio.png" alt="Shopping" style="width:45%" class="">	
+			   		<img src="/resources/environment-diagram.drawio.png" alt="EnvironDiagram" style="width:45%" class="">	
 			  	</div>
 			  	
 			  	<div class="row"> 
@@ -110,6 +110,24 @@
 			   </div>
 			   
 			 </section>
+			 
+			  <section>
+			   <div class="row"> 
+			 	  <h2>GitHub</h2>
+			   </div>
+			   
+			    <div class="row"> 
+			 	  <p>Thank you for looking through this website! I had agreat time developing it and will be updating it regularly! Please feel free to take a look at the GitHub repository
+			 	  for this project!</p>
+			   </div>
+			   <div class="row"> 
+			 	  <a class="git-link" href="https://github.com/LoganF-1234/shoppingcart-aws">
+              		<img src="${gitPic}" alt="GitHub"/>
+          		  </a>
+			   </div>
+			   
+			   
+			  </section>
 		</div>      
       </div>
     </div>
