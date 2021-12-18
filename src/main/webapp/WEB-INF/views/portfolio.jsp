@@ -64,9 +64,9 @@
 				</div>
 				 
 				<div class="row">
-				 <p>Determing the function of the website would be another obstacle to cross before I began developing it. Early on I decided that I wanted to implement
+				 <p>Determining the function of the website would be another obstacle to cross before I began developing it. Early on I decided that I wanted to implement
 				 	one of my hobbies into the design, so I decided to make a biographical site of some of my favorite historical figures and write up passages about 
-				 	their achievements. With how much fun I had doing this, I decided to convert this website into an entire portfolio!  <p>
+				 	their achievements. With how much fun I had doing this, I decided to convert this website into an entire portfolio!<p>
 				</div>
 				 
 			   </div>
@@ -87,9 +87,24 @@
 			   	<div class= "section4">
 			   		<img src="/resources/code build diagramo.drawio.png" alt="Shopping" style="width:100%" class="">	
 			  	</div>
+			  	
+			   <div class="row"> 
+			 	  <p>Outlined above is the AWS solution for deploying new code into an environment. AWS offers a great automated soluton themselves for this called AWS Codestar
+			 	  	which can be used to make anythig from a serverless React web application to a Java Spring web application, the latter of which is what this website is. Using
+			 	  	the Code Pipeline, CodeBuild, and CloudFormation stacks, I am able to automatically pull my code straight from GitHub everytime I commit new changes from my IDE.</p>
+			    </div>
+			   
 			  	<div class= "section4">
-			   		<img src="/resources/environment-diagram.drawio.png" alt="Shopping" style="width:100%" class="">	
+			   		<img src="/resources/environment-diagram.drawio.png" alt="Shopping" style="width:45%" class="">	
 			  	</div>
+			  	
+			  	<div class="row"> 
+			 	  <p>Above is my ultra-simplistic networking solution. As discussed before, this solution was created with pricing being the most important factor to be taken
+			 	  	into account, behind security. But seeing as Network ACL's and security groups do not cost anything extra, the only thing that suffered was the fail-safe
+			 	  	features offered by AWS which I was not able to use in this design. So things such as load balancers needed to be cut out all together, leading me to choose
+			 	  	Elastic Beanstalk's single instance option. That being said, my EC2 instances are still inside of an auto scaling group to ensure that the website is able to keep
+			 	  	itself up in cases of the EC2 insance crashing.</p>
+			    </div>
 			   </div>
 			   
 			   </div>
@@ -100,7 +115,7 @@
     </div>
 
     <footer>
-      <p class="footer-contents">Designed and developed by Logan Ferrera</p>
+      <p class="footer-contents"></p>
     </footer>
 
   </body>
