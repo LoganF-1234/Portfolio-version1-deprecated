@@ -1,4 +1,4 @@
-The Great Men Web Application
+Personal Website - Portfolio
 ==================================================
 
 Architecture
