@@ -92,8 +92,10 @@
 			 	  	CodePipeline, CodeBuild, and CloudFormation stacks, I am able to automatically pull my code straight from GitHub everytime I commit new changes from my IDE.</p>
 			    </div>
 			   
+			   <div class="row">
 			  	<div class= "section4">
 			   		<img src="/resources/environment-diagram.drawio.png" alt="EnvironDiagram" style="width:45%" class="">	
+			  	</div>
 			  	</div>
 			  	
 			  	<div class="row"> 
@@ -103,8 +105,6 @@
 			 	  	Elastic Beanstalk's single instance option. That being said, my EC2 instances are still inside of an auto scaling group to ensure that the website is able to keep
 			 	  	itself up in cases of the EC2 insance crashing.</p>
 			    </div>
-			   </div>
-			   
 			   
 			 </section>
 			 
