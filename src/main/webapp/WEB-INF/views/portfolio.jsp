@@ -43,15 +43,11 @@
 			 </div>
 			</section>
 			<section>
-			 <div class="row">
-			   <div class="section3">
-				<p>The home screen of this website!</p>			  	
-			  	
-			   </div>
-			  <div class= "section2">
-			   <img src="/resources/homescreen.png" alt="Shopping" style="width:100%" class="">	
-			  </div>
-			 </div>
+			   <div class= "row">
+			   	<div class= "section4">
+			   		<img src="/resources/homescreen.png" alt="homescreen" style="width:100%" class="">	
+			  	</div>
+			  	</div>
 			 
 			 </section>
 			 
@@ -88,6 +84,7 @@
 			   	<div class= "section4">
 			   		<img src="/resources/code build diagramo.drawio.png" alt="CodeBuild Diagram" style="width:100%" class="">	
 			  	</div>
+			  	</div>
 			  	
 			   <div class="row"> 
 			 	  <p>Outlined above is the AWS solution for deploying new code into an environment. AWS offers a great automated soluti7on themselves for this called AWS Codestar
@@ -117,16 +114,14 @@
 			   </div>
 			   
 			    <div class="row"> 
-			 	  <p>Thank you for looking through this website! I had agreat time developing it and will be updating it regularly! Please feel free to take a look at the GitHub repository
+			 	  <p>Thank you for looking through this website! I had a fantastic time developing it and will be updating it regularly! Please feel free to take a look at the GitHub repository
 			 	  for this project!</p>
 			   </div>
 			   <div class="row"> 
 			 	  <a class="git-link" href="https://github.com/LoganF-1234/shoppingcart-aws">
               		<img src="${gitPic}" alt="GitHub"/>
           		  </a>
-			   </div>
-			   
-			   
+			   </div>		   
 			  </section>
 		</div>      
       </div>
