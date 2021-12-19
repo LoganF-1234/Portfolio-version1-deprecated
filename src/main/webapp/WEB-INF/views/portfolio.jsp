@@ -10,6 +10,8 @@
     <spring:url value="/resources/shoppingcart.css" var="stylesCss" />
     <spring:url value="/resources/drawing.svg" var="drawingSVG" />
     <spring:url value="/resources/fix.svg" var="womenSVG" />
+    <spring:url value="/resources/GitHub-Mark-Light-120px-plus.png" var="gitPic" />
+    
 
     <link href="${stylesCss}" rel="stylesheet">
     <link href="${gradientsCss}" rel="stylesheet">
@@ -69,7 +71,6 @@
 				 	their achievements. With how much fun I had doing this, I decided to convert this website into an entire portfolio!<p>
 				</div>
 				 
-			   </div>
 			 </section>
 			  <section>
 			   <div class="row"> 
@@ -107,7 +108,6 @@
 			    </div>
 			   </div>
 			   
-			   </div>
 			   
 			 </section>
 			 
