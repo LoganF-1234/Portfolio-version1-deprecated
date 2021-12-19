@@ -7,7 +7,7 @@ This includes:
 
 * AWS CloudStar Java Spring Web Application
 * Launched with ElasticBeanstalk environment 
-* A simple Launch Configruation and Auto Scaling Group on a single t2.micro EC2 instance (want to keep everything free :D)
+* A simple Launch Configuration and Auto Scaling Group on a single t2.micro EC2 instance (want to keep everything free :D)
 * A Route53 Alias Record to my own domain loganferrera.com which is pointed to the ElasticBeanstalk DNS name.
 * Fully automated Code Pipeline that recieves inputs from this GitHub repository when changes are committed.
 
