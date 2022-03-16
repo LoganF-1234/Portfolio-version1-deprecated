@@ -87,7 +87,7 @@
 			  	</div>
 			  	
 			   <div class="row"> 
-			 	  <p>Outlined above is the AWS solution for deploying new code into an environment. AWS offers a great automated soluti7on themselves for this called AWS Codestar
+			 	  <p>Outlined above is the AWS solution for deploying new code into an environment. AWS offers a great automated solution themselves for this called AWS Codestar
 			 	  	which can be used to make anything from a serverless React web application to a Java Spring web application, the latter of which is what this website is. Using
 			 	  	CodePipeline, CodeBuild, and CloudFormation stacks, I am able to automatically pull my code straight from GitHub everytime I commit new changes from my IDE.</p>
 			    </div>
