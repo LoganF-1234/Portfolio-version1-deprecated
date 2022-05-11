@@ -1,0 +1,105 @@
+* {
+  margin: 0;
+}
+
+html {
+  margin: 0;
+  padding: 0;
+  font-family: "Trajan Pro 3", Times, serif;
+  font-size: 62.5%;
+  color: white;
+  background: linear-gradient(to bottom, #020111 10%, #3a3a52 100%);
+}
+ 
+html {
+  height: 100%;
+}
+.wrapper {
+   min-height: 100%; 
+   height: auto !important; 
+   height: 100%; 
+   margin: 0 auto -7rem; 
+   position: relative; 
+}
+
+.wrapper-container {
+  display: flex;
+  justify-content: center;;
+}
+.game-container { 
+  display: grid;
+  grid-auto-rows: 20px;
+  margin-bottom: 2rem;
+  width: min-content;
+  border: 4mm ridge rgb(82, 73, 122);
+}
+
+.message-container {
+  margin-bottom: 5rem;
+  display: flex;
+  justify-content: center;
+  column-gap: 5px;
+}
+
+.message-container button {
+  width: 90px;
+  height: 30px;
+  font-family: "Arial", Times, serif;
+}
+
+.message-container #randomobstaclesButton {
+  width: 150px;
+}
+
+.title-container {
+  font-size: 4rem;
+  margin: 2rem;
+  display: flex;
+  justify-content: center;
+  border-bottom: 1px solid gray;
+}
+
+.game-container button {
+  width: 20px;
+  height: 20px;
+}
+
+.red {
+  background-color: rgb(240, 60, 60);
+}
+
+.start {
+  background-color: rgb(247, 247, 74);
+}
+
+.end {
+  background-color: rgb(39, 38, 38);
+}
+
+.orange {
+  background-color: orange;
+}
+
+.green {
+  background-color: rgb(75, 141, 75);
+}
+
+.light-blue {
+  background-color: rgb(199, 186, 253);
+}
+
+.blue1 {
+  background-color: rgb(37, 104, 190);
+}
+
+
+
+.noselect {
+  -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+     -khtml-user-select: none; /* Konqueror HTML */
+       -moz-user-select: none; /* Old versions of Firefox */
+        -ms-user-select: none; /* Internet Explorer/Edge */
+            user-select: none; /* Non-prefixed version, currently
+                                  supported by Chrome, Edge, Opera and Firefox */
+}

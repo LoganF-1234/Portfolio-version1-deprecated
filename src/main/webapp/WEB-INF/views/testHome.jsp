@@ -139,6 +139,8 @@
             <li><a class="home-link" href="/">Home</a></li>
             <li><a href="/greatmen">The Great Men</a></li>
             <li><a href="/greatwomen">The Great Women</a></li>
+            <li><a href="/algorithms">Algorithms</a></li>
+            
           </ul>
         </nav>
       </header>
