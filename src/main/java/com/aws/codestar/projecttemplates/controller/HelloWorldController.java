@@ -103,7 +103,7 @@ public class HelloWorldController {
     }
     @RequestMapping("algorithms")
     public ModelAndView algorithmsPage() {
-    	ModelAndView mavenyxzabcdef = new ModelAndView("algorithms");
+    	ModelAndView mavenyxzabcdefg = new ModelAndView("algorithms");
     	return mavenyxzabcdefg;
     }
 }
