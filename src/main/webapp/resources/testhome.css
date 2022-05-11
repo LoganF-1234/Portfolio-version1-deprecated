@@ -126,6 +126,9 @@ padding-top: 3rem;
 	min-height: 1px;
 }
 
+.row {
+	padding-bottom: 2rem;
+}
 .row:before, .row:after{
 	display: table;
 	content: "";

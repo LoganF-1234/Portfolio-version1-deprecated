@@ -235,7 +235,7 @@
 			 	      	<?xml version="1.0" encoding="UTF-8"?>
 							<svg id="svg5" width="88mm" height="30mm" version="1.1" viewBox="0 0 88 30" xmlns="http://www.w3.org/2000/svg">
 							 <g id="layer1">
-							  <text id="text2963" transform="matrix(.53832 0 0 .51569 106.14 -24.507)" x="-145.28725" y="80.318504" fill="#ffffff" font-family="'Trajan Pro 3'" font-size="12.7px" stroke-width=".26458" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;inline-size:148.56;line-height:1.25;white-space:pre" xml:space="preserve"><tspan id="tspan13105" x="-145.28725" y="80.318504">Algorithms</tspan></text>
+							  <text id="text2963" transform="matrix(.53832 0 0 .51569 106.14 -24.507)" x="-145.28725" y="80.318504" fill="#ffffff" font-family="'Trajan Pro 3'" font-size="12.7px" stroke-width=".26458" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;inline-size:148.56;line-height:1.25;white-space:pre" xml:space="preserve"><tspan id="tspan13105" x="-135.28725" y="80.318504">Algorithms</tspan></text>
 							  <text id="text31363" transform="scale(.26458)" fill="#ffffff" font-family="sans-serif" font-size="40px" style="line-height:1.25;shape-inside:url(#rect31365);white-space:pre" xml:space="preserve"/>
 							  <text id="text32733" transform="scale(.26458)" fill="#ffffff" font-family="sans-serif" font-size="40px" style="line-height:1.25;shape-inside:url(#rect32735);white-space:pre" xml:space="preserve"/>
 							  <g id="g9931" transform="matrix(.36014 -.24507 .23376 .32445 16.057 4.546)">
