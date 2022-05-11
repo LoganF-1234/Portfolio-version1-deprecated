@@ -204,7 +204,7 @@
 			 <section>
 			 	<div class="row"> 
 			 	  <div class="graphics1">			      
-			        <div class="section5">
+			        <div class="section3">
 			 	      <a class="projects" href="/projects">
 			 	      	<?xml version="1.0" encoding="UTF-8"?>
 							<svg id="svg5" width="88mm" height="30mm" version="1.1" viewBox="0 0 88 30" xmlns="http://www.w3.org/2000/svg">
@@ -230,7 +230,7 @@
 			 	   </div>   
 			 	</div>
 			 	<div class="graphics2">			      
-			        <div class="section6">
+			        <div class="section4">
 			 	      <a class="algorithms" href="/algorithms">
 			 	      	<?xml version="1.0" encoding="UTF-8"?>
 							<svg id="svg5" width="88mm" height="30mm" version="1.1" viewBox="0 0 88 30" xmlns="http://www.w3.org/2000/svg">
