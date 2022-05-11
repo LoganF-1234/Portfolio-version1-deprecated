@@ -203,7 +203,7 @@
 			 
 			 <section>
 			 	<div class="row"> 
-			 	  <div class="graphics3">			      
+			 	  <div class="graphics1">			      
 			        <div class="section5">
 			 	      <a class="projects" href="/projects">
 			 	      	<?xml version="1.0" encoding="UTF-8"?>
@@ -229,7 +229,7 @@
 			 	      </a>
 			 	   </div>   
 			 	</div>
-			 	<div class="graphics4">			      
+			 	<div class="graphics2">			      
 			        <div class="section6">
 			 	      <a class="algorithms" href="/algorithms">
 			 	      	<?xml version="1.0" encoding="UTF-8"?>
