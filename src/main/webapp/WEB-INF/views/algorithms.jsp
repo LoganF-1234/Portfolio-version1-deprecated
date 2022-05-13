@@ -15,6 +15,8 @@
    
     <link href="${stylesCss}" rel="stylesheet">
 </head>
+<title>Document</title>
+</head>
 <body>
   <div class="wrapper">
     <div class="title-container">
@@ -24,6 +26,10 @@
       <div class="game-container">
       
       </div>
+
+      <!--<div class="game-container2">
+        
+      </div> -->
     </div>
     
     <div class="message-container">

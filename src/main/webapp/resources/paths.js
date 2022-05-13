@@ -21,6 +21,30 @@ export const gameTiles = [
   ['','','','','','','','','','','','','','','','','','','','']
   
 ]
+
+export const dfsTiles = [
+  ['','','','','','','','','','','','','','','','','','','',''],
+  ['','','','','','','','','','','','','','','','','','','',''],
+  ['','','','','','','','','','','','','','','','','','','',''],
+  ['','','','','','','','','','','','','','','','','','','',''],
+  ['','','','','','','','','','','','','','','','','','','',''],
+  ['','','','','','','','','','','','','','','','','','','',''],
+  ['','','','','','','','','','','','','','','','','','','',''],
+  ['','','','','','','','','','','','','','','','','','','',''],
+  ['','','','','','','','','','','','','','','','','','','',''],
+  ['','','','','','','','','','','','','','','','','','','',''],
+  ['','','','','','','','','','','','','','','','','','','',''],
+  ['','','','','','','','','','','','','','','','','','','',''],
+  ['','','','','','','','','','','','','','','','','','','',''],
+  ['','','','','','','','','','','','','','','','','','','',''],
+  ['','','','','','','','','','','','','','','','','','','',''],
+  ['','','','','','','','','','','','','','','','','','','',''],
+  ['','','','','','','','','','','','','','','','','','','',''],
+  ['','','','','','','','','','','','','','','','','','','',''],
+  ['','','','','','','','','','','','','','','','','','','',''],
+  ['','','','','','','','','','','','','','','','','','','','']
+  
+]
 export const visited =[ 
   [false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false,],
   [false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false,],
@@ -63,6 +87,48 @@ export const path = [
   [null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null,],
   [null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null,], 
   [null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null,] ]
+  export const dfsvisited =[ 
+    [false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false,],
+    [false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false,],
+    [false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false,],
+    [false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false,],
+    [false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false,],    
+    [false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false,],
+    [false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false,],
+    [false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false,],
+    [false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false,],
+    [false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false,],
+    [false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false,],
+    [false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false,],
+    [false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false,],
+    [false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false,],
+    [false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false,],
+    [false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false,],
+    [false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false,],
+    [false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false,],
+    [false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false,], 
+    [false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false,] ]
+  export const dfspath = [ 
+    [null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null,],
+    [null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null,],
+    [null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null,],
+    [null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null,],
+    [null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null,],    
+    [null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null,],
+    [null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null,],
+    [null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null,],
+    [null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null,],
+    [null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null,],
+    [null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null,],
+    [null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null,],
+    [null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null,],
+    [null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null,],
+    [null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null,],
+    [null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null,],
+    [null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null,],
+    [null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null,],
+    [null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null,], 
+    [null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null,] ]
 export const maze1 = [['start', '', '', 'red', 'red', 'red', 'red', 'red', 'red', 'red', 'red', 'red', 'red', 'red', 'red', 'red', 'red', 'red', 'red', 'red'],
  ['red', 'red', '', '', 'red', 'red', 'red', 'red', 'red', 'red', 'red', 'red', 'red', 'red', '', '', '', '', 'red', 'red'],
  ['red', 'red', 'red', '', 'red', 'red', 'red', 'red', 'red', 'red', 'red', 'red', 'red', 'red', '', 'red', 'red', '', 'red', 'red'],
@@ -151,5 +217,29 @@ export const cross = [
   ['', 'red', '', 'red', '', 'red', '', 'red', 'red', '', '', 'red', 'red', '', 'red', '', 'red', '', 'red', ''],
   ['', 'red', 'red', 'red', '', 'red', 'red', 'red', 'red', '', '', 'red', 'red', 'red', 'red', '', 'red', '', 'red', ''],
   ['', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', 'red', 'end']
+
+]
+
+export const maze2 = [
+ ['start', '', '', '', 'red', '', '', '', '', '', '', '', '', '', '', '', '', '', '', ''],
+ ['', 'red', '', '', 'red', 'red', 'red', 'red', 'red', 'red', 'red', 'red', 'red', 'red', '', 'red', 'red', '', 'red', ''],
+ ['', 'red', 'red', '', '', '', '', '', '', '', '', '', '', 'red', '', '', 'red', '', 'red', ''],
+ ['', '', 'red', 'red', '', 'red', 'red', '', '', '', '', '', '', 'red', 'red', 'red', 'red', '', 'red', ''],
+ ['', '', 'red', 'red', 'red', 'red', 'red', '', '', 'red', 'red', 'red', '', '', '', '', '', '', 'red', ''],
+ ['', '', 'red', 'red', 'red', 'red', 'red', 'red', '', 'red', '', 'red', '', '', '', '', '', '', 'red', ''],
+ ['', '', 'red', '', '', '', '', 'red', '', 'red', '', 'red', 'red', 'red', 'red', 'red', 'red', 'red', 'red', 'red'],
+ ['', '', 'red', '', 'red', 'red', 'red', 'red', '', 'red', '', 'red', 'red', 'red', 'red', 'red', 'red', 'red', 'red', 'red'],
+ ['', '', 'red', '', '', '', '', 'red', '', 'red', '', '', '', '', '', '', '', '', '', ''],
+ ['', '', 'red', 'red', '', 'red', 'red', 'red', '', 'red', 'red', 'red', 'red', '', 'red', 'red', 'red', '', 'red', ''],
+ ['', '', '', 'red', '', '', '', 'red', '', '', '', '', '', '', 'red', '', 'red', '', 'red', ''],
+ ['red', 'red', '', 'red', '', 'red', '', 'red', 'red', 'red', 'red', 'red', 'red', 'red', 'red', '', 'red', '', 'red', ''],
+ ['', 'red', '', 'red', '', 'red', '', 'red', '', '', '', '', '', '', '', '', '', '', 'red', ''],
+ ['', 'red', '', '', '', 'red', '', 'red', 'red', 'red', '', '', '', '', '', '', '', '', 'red', ''],
+ ['', 'red', '', '', '', 'red', '', 'red', '', '', '', '', '', '', '', 'red', 'red', 'red', 'red', 'red'],
+ ['', 'red', '', '', '', 'red', '', 'red', '', 'red', 'red', 'red', 'red', 'red', 'red', 'red', 'red', 'red', 'red', 'red'],
+ ['', 'red', 'red', 'red', 'red', 'red', '', 'red', '', '', '', '', '', '', '', '', '', '', '', ''],
+ ['', '', '', '', '', '', '', 'red', 'red', 'red', 'red', 'red', 'red', 'red', 'red', 'red', 'red', 'red', 'red', ''],
+ ['', '', 'red', 'red', 'red', 'red', 'red', 'red', 'red', 'red', 'red', 'red', 'red', 'red', 'red', 'red', 'red', 'red', 'red', ''],
+ ['', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', 'end']
 
 ]
