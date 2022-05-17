@@ -1,10 +1,30 @@
 //BFS Web App - first web dev app using javascript in any substantial way. Apologies or messy code and sub-optimal solutions
-import { gameTiles, visited, path, maze1, logan, random, cross, maze2 } from './paths.js'  //import all arrays from paths.js
-const gamePaths = [maze1, logan, random, cross, maze2]
+import { gameTiles, visited, path, maze1, logan, random, cross, maze2, thermopylae } from './paths.js'  //import all arrays from paths.js
+const gamePaths = [maze1, logan, random, cross, maze2, thermopylae]
 export let currentPath = 0 // do not want to repeat a path, used in randomObstacles()
 const gameBoard = document.querySelector('.game-container')
 const gameTilesNum = gameTiles.length
 let toggling = false
+
+// set up the grid style for the game container
+const intitializeBoard = () => {
+  const width  = window.innerWidth || document.documentElement.clientWidth || 
+  document.body.clientWidth;
+  const height = window.innerHeight|| document.documentElement.clientHeight|| 
+  document.body.clientHeight;
+
+  const gameContainer = document.querySelector('.game-container')
+  if(width <= 913){
+    if(height <= 800) {
+      gameContainer.style.gridTemplateColumns = `repeat(${gameTilesNum}, 10px)`
+    } else {
+      gameContainer.style.gridTemplateColumns = `repeat(${gameTilesNum}, 15px)`
+    }
+  } else {
+    gameContainer.style.gridTemplateColumns = `repeat(${gameTilesNum}, 20px)`
+  }
+}
+intitializeBoard()
 
 // functions for making the draw work
 const enableToggle = () => {
@@ -91,16 +111,19 @@ startNode.classList.add('start')
 endNode.classList.add('end')
 gameTiles[0][0] = 'start'
 gameTiles[19][19] = 'end'
-
+var help = null
+let endBFS = true
+let bfsRunTimes = 0
 // Breadth First Search in a grid. 
 const bfs = async () => {
+  bfsRunTimes++
   let moveCount = 0
   let nodesHere = 1
   let nodesThere = 0
   let rowQueue = []  // could have combined rowQueue and columnQueue into one by making an object { row: , column:, }
   let columnQueue = []
   let parentForCell = {}
-  let endBFS = false
+  endBFS = false
   let rowDirection = [-1, 1, 0, 0]
   let columnDirection = [0, 0, 1, -1]
   let currentKey = ``
@@ -143,7 +166,6 @@ const bfs = async () => {
       let newRow = parseInt(rowPosition + rowDirection[i])
       let newColumn = parseInt(columnPosition + columnDirection[i])
 
-      
       if(newRow < 0 || newColumn <0){
         continue
       }
@@ -199,7 +221,7 @@ const bfs = async () => {
   }
   
   path.forEach((cell,i) => {
-    setTimeout(()=> { // animate final path
+    help = setTimeout(()=> { // animate final path
       document.getElementById(cell).classList.add('blue1')
     }, i* 10)
   })
@@ -213,45 +235,58 @@ const bfs = async () => {
 
 const runBFS = document.getElementById('runbfsButton')
 runBFS.addEventListener('click', () => {
-  bfs()
-  //console.log(gameTiles)
+  if(bfsRunTimes < 1) {
+    bfs()
+  } else {
+    console.log('need to reset board')
+  }
+ 
 })
 
 const resetButton = document.getElementById('resetboardButton')
-  resetButton.addEventListener('click', () => {
-    resetBoard()
-    //console.log(visited)
-  })
+resetButton.addEventListener('click', () => {
+  clearTimeout(help)
+  resetBoard()
+  //console.log(visited)
+})
+
+
+const resizeEvent = window.addEventListener('resize', () => {
+  intitializeBoard()
+})
 
 const randomObstaclesButton = document.getElementById('randomobstaclesButton')
 randomObstaclesButton.addEventListener('click', () => {
-  randomObstacles()
+  if(endBFS == true) {
+    randomObstacles()
+  }
 })
 
 // reset the gameTiles board and all the colors on it
 const resetBoard = () => {
-  gameTiles.forEach((gameTileRow, gameTileRowIndex) => {
-    gameTileRow.forEach((gameTile, gameTileIndex) =>{
-      const tiles = document.getElementById('gameRow-' + gameTileRowIndex + '-tile-' + gameTileIndex)
-      tiles.classList.remove('yellow', 'red', 'blue1', 'dark-gray')
-      gameTiles[gameTileRowIndex][gameTileIndex] = ''
-      visited[gameTileRowIndex][gameTileIndex] = false
+  if(endBFS == true) {
+    //clearTimeout(help)
+    gameTiles.forEach((gameTileRow, gameTileRowIndex) => {
+      gameTileRow.forEach((gameTile, gameTileIndex) =>{
+        const tiles = document.getElementById('gameRow-' + gameTileRowIndex + '-tile-' + gameTileIndex)
+        tiles.classList.remove('yellow', 'red', 'blue1', 'dark-gray')
+        gameTiles[gameTileRowIndex][gameTileIndex] = ''
+        visited[gameTileRowIndex][gameTileIndex] = false
+      })
     })
-  })
-  gameTiles[0][0] = 'start'
-  gameTiles[19][19] = 'end'
+    gameTiles[0][0] = 'start'
+    gameTiles[19][19] = 'end'
+    endBFS = true
+    bfsRunTimes = 0
+  } else {
+    console.log('process is still running')
+  }
+  
 }
-
-// set up the grid style for the game container
-const intitializeBoard = () => {
-  const gameContainer = document.querySelector('.game-container')
-  gameContainer.style.gridTemplateColumns = `repeat(${gameTilesNum}, 20px)`
-}
-intitializeBoard()
 
 // code comes from YouTube account ourcade, a video of his helped me figure out how to keep track of the parent nodes for BFS for use in the final path
 const waitForSeconds = secs => {
   return new Promise(resolve => {
     setTimeout(resolve,secs *1000)
   })
-}
+} 

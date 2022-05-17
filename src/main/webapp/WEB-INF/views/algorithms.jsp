@@ -15,30 +15,39 @@
    
     <link href="${stylesCss}" rel="stylesheet">
 </head>
-<title>Document</title>
-</head>
-<body>
-  <div class="wrapper">
-    <div class="title-container">
-      Breadth First
-    </div>
+<div class="wrapper">
     <div class="wrapper-container">
-      <div class="game-container">
-      
+      <div class="bfs-container">
+        <div class="title-container">
+          Breadth First
+        </div>
+        <div class="game-container">
+        
+        </div>
       </div>
 
+      <div class="dfs-container">
+        <div class="title-container">
+          Depth First
+        </div>
+        <div class="game-container2">
+        
+        </div>
+      </div>
       <!--<div class="game-container2">
         
       </div> -->
     </div>
     
     <div class="message-container">
-      <button id = "runbfsButton" class="noselect">Run BFS!</button>
+      <button id = "runbfsButton" class="noselect">Run Algorithms!</button>
       <button id = "resetboardButton" class="noselect">Reset</button>
       <button id = "randomobstaclesButton" class="noselect">Random Obstacles!</button>
     </div>
   </div>
   <script type="module" src="${pageContext.request.contextPath}/resources/app.js"></script>
   <script src= "appJs"></script>
+  <script type="module" src="${pageContext.request.contextPath}/resources/dfs.js"></script>
+  <script src= "dfsJs"></script>
 </body>
 </html>
