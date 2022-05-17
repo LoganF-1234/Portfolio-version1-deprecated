@@ -106,4 +106,10 @@ public class HelloWorldController {
     	ModelAndView mavenyxzabcdefg = new ModelAndView("algorithms");
     	return mavenyxzabcdefg;
     }
+    
+    @RequestMapping("algorithmsProject")
+    public ModelAndView algorithmsProjectPage() {
+    	ModelAndView mavenyxzabcdefgh = new ModelAndView("algoProject");
+    	return mavenyxzabcdefgh;
+    }
 }

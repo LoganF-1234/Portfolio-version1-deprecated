@@ -70,6 +70,20 @@
 			  		</div>
 			  	  </a>
 			  	</div>
+			  	
+			  	<div class ="capsule container">
+			  	  <a class="shopping-link" href="/algorithmsProject">
+			  		<img src="/resources/algoProject.png" alt="Shopping" style="width:100%" class="hover-opacity">
+			  		<div class="container container-grey">
+			  			<p>
+			  				<b class="bold">Pathfinding Algorithms</b>
+			  			</p>
+			  			<p>
+							<b>Draw your own maze and see a Breadth First and Depth First traversal!.</b>			  			
+			  			</p>
+			  		</div>
+			  	  </a>
+			  	</div>
 			  
 			  
 			 </div>
