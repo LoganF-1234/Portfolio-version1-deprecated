@@ -49,9 +49,12 @@ span{
 #c {
     margin-left: auto;
     margin-right: auto;
-    width: 940px;
+    width: 90%;
     text-align: center;
 }
+
+.center {
+display:  grid;grid-template-columns: min-content;/* display: flow-root; */justify-content: center;}
 .bottom, .top,
 .topright,
 .botright,
@@ -74,8 +77,6 @@ svg:hover .bot-cog{
 }
 
 
-
-
 .wrapper {
   min-height: 100%;
   height: auto !important;
@@ -84,19 +85,6 @@ svg:hover .bot-cog{
   position: relative;
 }
 
-.graphics1 {
-  height: 150px;
-width: 365px;
-float: left;
-padding-right: 6rem;
-}
-
-.graphics2 {
-	float: left;
-padding-left: 5rem;
-height: 150px;
-width: 365px;
-}
 
 .graphics3 {
 height: 150px;
@@ -291,52 +279,25 @@ footer .footer-contents {
   }
 }
 
-@media (min-height: 500px) and (min-width: 700px) {
-  .message {
-    padding: 0;
-    width: 50%;
-    left: calc(50vw - 10rem);
-    top: calc(10vh - 15rem);
-  }
+@media only screen and (min-width: 1000px) {
+  
+	.center {
+	display: inline-block;}
 
-  .message .text {
-    padding-right: 0rem;
-  }
+.graphics {display: block;}
 
-  .graphics {
-    display: block;
-    margin-bottom: 1rem;
-  }
+.graphics {}
 
-  .message .twitter-link img {
-    width: 70%;
-    height: 70%;
-  }
+.graphics1 {height: 150px;
+    width: 365px;
+    float: left;
+    padding-right: 6rem;}
 
-  .page-content {
-    padding: 3rem 5rem;
-  }
+.graphics2 {height: 150px;
+    width: 365px;
+    float: left;
+    padding-right: 8rem;}
+
 }
 
-@media (min-height: 500px) and (min-width: 1240px) {
-  .message {
-    left: calc(50vw - 10rem);
-    top: calc(10vh - 15rem);
-  }
-
-  h1 {
-    font-size: 5rem;
-  }
-
-  .message .twitter-link img {
-    width: 80%;
-    height: 80%;
-  }
-}
-
-@media (min-aspect-ratio: 11/5)  {
-  .graphics {
-    display: none;
-  }
-}
 
