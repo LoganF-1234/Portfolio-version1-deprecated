@@ -80,6 +80,13 @@ span{
 
 .capsule {
 	float: left;
+	width: 30%;
+}
+
+@media only screen and (min-width: 600px) {
+	.capsule {
+		width: 80%;
+	}
 }
 
 .shopping-link:hover {
@@ -218,53 +225,8 @@ footer .footer-contents {
 }
 
 
-
 @keyframes dash {
   to {
     stroke-dashoffset: 0;
-  }
-}
-
-@media (min-height: 500px) and (min-width: 700px) {
-  .message {
-    padding: 0;
-    width: 50%;
-    left: calc(50vw - 10rem);
-    top: calc(10vh - 15rem);
-  }
-
-  .message .text {
-    padding-right: 0rem;
-  }
-
-  .graphics {
-    display: block;
-    margin-bottom: 1rem;
-  }
-
-  .page-content {
-    padding: 3rem 5rem;
-  }
-}
-
-@media (min-height: 500px) and (min-width: 1240px) {
-  .message {
-    left: calc(50vw - 10rem);
-    top: calc(10vh - 15rem);
-  }
-
-  h1 {
-    font-size: 5rem;
-  }
-
-  .message .twitter-link img {
-    width: 80%;
-    height: 80%;
-  }
-}
-
-@media (min-aspect-ratio: 11/5)  {
-  .graphics {
-    display: none;
   }
 }
