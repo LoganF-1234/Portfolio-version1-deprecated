@@ -16,6 +16,7 @@
     <link href="${stylesCss}" rel="stylesheet">
 </head>
 <div class="wrapper">
+	<div class="back-container"><a class = "back-button" href= "/">Back</a></div>
     <div class="wrapper-container">
       <div class="bfs-container">
         <div class="title-container">
