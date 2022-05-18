@@ -44,20 +44,6 @@
 			<section>
 			 <div class="row">
 			  	<div class ="capsule container">
-			  	  <a class="shopping-link" href="/shopping-cart">
-			  		<img src="/resources/shoppingcart.png" alt="Shopping" style="width:100%" class="hover-opacity">
-			  		<div class="container container-grey">
-			  			<p>
-			  				<b class="bold">Shopping Cart</b>
-			  			</p>
-			  			<p>
-							<b>A fully functional shopping cart application and database using Java and PostgreSQL.</b>			  			
-			  			</p>
-			  		</div>
-			  	  </a>
-			  	</div>
-			  	
-			  	<div class ="capsule container">
 			  	  <a class="shopping-link" href="/portfolio">
 			  		<img src="/resources/site.png" alt="Portfolio" style="width:100%" class="hover-opacity">
 			  		<div class="container container-grey">
@@ -80,6 +66,20 @@
 			  			</p>
 			  			<p>
 							<b>Draw your own maze and see a Breadth First and Depth First traversal!.</b>			  			
+			  			</p>
+			  		</div>
+			  	  </a>
+			  	</div>
+			  	
+			  	<div class ="capsule container">
+			  	  <a class="shopping-link" href="/shopping-cart">
+			  		<img src="/resources/shoppingcart.png" alt="Shopping" style="width:100%" class="hover-opacity">
+			  		<div class="container container-grey">
+			  			<p>
+			  				<b class="bold">Shopping Cart</b>
+			  			</p>
+			  			<p>
+							<b>A fully functional shopping cart application and database using Java and PostgreSQL.</b>			  			
 			  			</p>
 			  		</div>
 			  	  </a>
