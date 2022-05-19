@@ -95,7 +95,7 @@
 				 <h2>Safari</h2>
 				 <h3>Problem</h3>
 				</div>
-				 <p>When running the applciation on the Safari browser on iPhone, the grid is disorganized and seems to be duplicated on top of itself.</p>
+				 <p>When running the application on the Safari browser on iPhone, the grid is disorganized and seems to be duplicated on top of itself.</p>
 				 <h3>Solution</h3>
 				 <p>The problem is that Safari simply does not support instrinsic grid sizing with the grid-template-rows or grid-template-columns properties. I am currently constructing a solution which will
 				 just require finding a way to replicate the effect of grid-template-rows with another property of the CSS grid layout. I will update this page when I find a solution.</p>
