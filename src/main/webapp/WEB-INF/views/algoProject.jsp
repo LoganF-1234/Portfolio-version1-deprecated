@@ -113,7 +113,7 @@
 			 	  the HTML to JSP for the repository this website runs off of.</p>
 			   </div>
 			   <div class="row"> 
-			 	  <a class="git-link" href="https://github.com/LoganF-1234/shoppingcart-aws">
+			 	  <a class="git-link" href="https://github.com/LoganF-1234/Pathfinding-Algorithms">
               		<img src="${gitPic}" alt="GitHub"/>
           		  </a>
 			   </div>		   
