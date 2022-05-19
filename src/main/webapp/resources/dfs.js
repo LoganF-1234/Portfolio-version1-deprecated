@@ -66,6 +66,8 @@ function run() {
     })
   })
   gameBoard.onmouseup = disableToggle
+  gameBoard.onmouseleave = disableToggle
+
   
 }
 run()
