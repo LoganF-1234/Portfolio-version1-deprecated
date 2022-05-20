@@ -13,7 +13,7 @@ const intitializeBoard = () => {
 
   const gameContainer = document.querySelector('.game-container2')
   if(width <= 913){
-    if(height <= 800) {
+    if(height <= 830) {
       gameContainer.style.gridTemplateColumns = `repeat(${dfsTilesNum}, 10px)`
     } else {
       gameContainer.style.gridTemplateColumns = `repeat(${dfsTilesNum}, 15px)`
